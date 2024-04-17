@@ -1,8 +1,8 @@
 {
   "user": {
     "API": {
-      "APIKEY": "d56db25b648f9c5f78a7357583f7fc61c3108a665ebc9830dbf740942f49181d",
-      "APISECRET": "3e785060ab82a1016518a222fb77b518df4919258e416be4457c117b30f176a1"
+      "APIKEY": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "APISECRET": "xxxxxxxxxxxxxxxxxxxxxxx"
     },
     "MARGIN_TYPE": "ISOLATED",
     "active_tickers_list": [
