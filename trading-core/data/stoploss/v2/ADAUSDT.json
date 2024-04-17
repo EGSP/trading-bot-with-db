@@ -1,0 +1,989 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.4518427294306858,
+      "timestamp": 1674432080455
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.40182298479464496,
+      "timestamp": 1674432814259
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5069201997184496,
+      "timestamp": 1674433607690
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6119898083341576,
+      "timestamp": 1674433629463
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7221826457997219,
+      "timestamp": 1674433942341
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7221826457997219,
+      "timestamp": 1674434524490
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7221826457997219,
+      "timestamp": 1674440656634
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.8232599167134079,
+      "timestamp": 1674441314144
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.8232599167134079,
+      "timestamp": 1674456274409
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.8232599167134079,
+      "timestamp": 1674457491734
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7885701235179436,
+      "timestamp": 1674514478880
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7484363442537296,
+      "timestamp": 1674516311264
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7082164756386338,
+      "timestamp": 1674517513084
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6736833371076212,
+      "timestamp": 1674537470800
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6736833371076212,
+      "timestamp": 1674552271564
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6736833371076212,
+      "timestamp": 1674553935458
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6736833371076212,
+      "timestamp": 1674585503555
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6736833371076212,
+      "timestamp": 1674586337457
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6363897835647333,
+      "timestamp": 1674593244408
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7160604780276201,
+      "timestamp": 1674597219724
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7160604780276201,
+      "timestamp": 1674688687289
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.7160604780276201,
+      "timestamp": 1674702402686
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6763936791382904,
+      "timestamp": 1674712193452
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.6366848770204876,
+      "timestamp": 1674714215317
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5915501365452459,
+      "timestamp": 1674715238430
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5915501365452459,
+      "timestamp": 1674718251403
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5915501365452459,
+      "timestamp": 1674737498560
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5915501365452459,
+      "timestamp": 1674738325477
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5915501365452459,
+      "timestamp": 1674768991153
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674775220407
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674780323749
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674781042570
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674781110317
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674781199515
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674781225651
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674781298839
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674781607832
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674794651342
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674800082729
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5545228950747352,
+      "timestamp": 1674801126528
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.5199714000581233,
+      "timestamp": 1674817277698
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.48269770463746264,
+      "timestamp": 1674821213912
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.48269770463746264,
+      "timestamp": 1674823158728
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674869911881
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674874118346
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674875484563
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674880053770
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674881380614
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674888298731
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674890837353
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674890898090
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674920300745
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674923213134
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674923267963
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674923352661
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674927629377
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.43157296026118447,
+      "timestamp": 1674928941873
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3950385134970923,
+      "timestamp": 1674950539135
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3950385134970923,
+      "timestamp": 1674952637023
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3402296918867571,
+      "timestamp": 1674958902518
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3402296918867571,
+      "timestamp": 1674967496365
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3037903373838937,
+      "timestamp": 1674974325648
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2676426482540199,
+      "timestamp": 1674990334500
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.23149495912414608,
+      "timestamp": 1674990447819
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19534726999427227,
+      "timestamp": 1674990467013
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.15925549376328457,
+      "timestamp": 1674996338482
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.12309846896989582,
+      "timestamp": 1675000037975
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.08953709037172819,
+      "timestamp": 1675008893153
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.06604852025911179,
+      "timestamp": 1675032996417
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.07619047619047625,
+      "timestamp": 1675035242491
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.12978750477159787,
+      "timestamp": 1675041656574
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.12982054219167463,
+      "timestamp": 1675042213026
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.13015184381778583,
+      "timestamp": 1675042590336
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.13786060760786498,
+      "timestamp": 1675042707811
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.13789581205311724,
+      "timestamp": 1675042753474
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.13789581205311724,
+      "timestamp": 1675049715428
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10486316054759143,
+      "timestamp": 1675059631387
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.07366434034455124,
+      "timestamp": 1675060413302
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10997643362136782,
+      "timestamp": 1675086532447
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.11757021554539523,
+      "timestamp": 1675088247011
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.11757021554539523,
+      "timestamp": 1675089502936
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.13279520895716976,
+      "timestamp": 1675089702085
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3454442480105963,
+      "timestamp": 1675107947751
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3454442480105963,
+      "timestamp": 1675108513258
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3051595696166121,
+      "timestamp": 1675120162319
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3051595696166121,
+      "timestamp": 1675130534535
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3051595696166121,
+      "timestamp": 1675131742659
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.27009551027743417,
+      "timestamp": 1675134462180
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.27009551027743417,
+      "timestamp": 1675135510961
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.27009551027743417,
+      "timestamp": 1675142093589
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.27009551027743417,
+      "timestamp": 1675161119735
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.23226789611909826,
+      "timestamp": 1675163234376
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3166665556697985,
+      "timestamp": 1675318689351
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3166665556697985,
+      "timestamp": 1675319897456
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.27706259527375915,
+      "timestamp": 1675326165141
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3563490174739569,
+      "timestamp": 1675331998635
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3563490174739569,
+      "timestamp": 1675333211907
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3563490174739569,
+      "timestamp": 1675333881208
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3563490174739569,
+      "timestamp": 1675346002228
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3563490174739569,
+      "timestamp": 1675347208321
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.4651790941496918,
+      "timestamp": 1675366980256
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.4651790941496918,
+      "timestamp": 1675368194807
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.4210722575900258,
+      "timestamp": 1675372000570
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.37393170430879485,
+      "timestamp": 1675383389016
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.37393170430879485,
+      "timestamp": 1675399229979
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.37393170430879485,
+      "timestamp": 1675400172984
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3363612597252006,
+      "timestamp": 1675408437972
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3363612597252006,
+      "timestamp": 1675410596627
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3363612597252006,
+      "timestamp": 1675431009619
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3363612597252006,
+      "timestamp": 1675435811387
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3363612597252006,
+      "timestamp": 1675455752970
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3363612597252006,
+      "timestamp": 1675470472474
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.30404304965683593,
+      "timestamp": 1675485106230
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2691738093081432,
+      "timestamp": 1675495109664
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2691738093081432,
+      "timestamp": 1675507734080
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2691738093081432,
+      "timestamp": 1675527705199
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2691738093081432,
+      "timestamp": 1675527726380
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2691738093081432,
+      "timestamp": 1675527806893
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.22932324890963784,
+      "timestamp": 1675536705626
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19449737826287136,
+      "timestamp": 1675545058705
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19449737826287136,
+      "timestamp": 1675547192085
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19449737826287136,
+      "timestamp": 1675550292187
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19449737826287136,
+      "timestamp": 1675564470253
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19449737826287136,
+      "timestamp": 1675574014333
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19449737826287136,
+      "timestamp": 1675575884119
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19449737826287136,
+      "timestamp": 1675577086848
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.1619933152549948,
+      "timestamp": 1675577888061
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.1319105877543672,
+      "timestamp": 1675585478544
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.09932505071965048,
+      "timestamp": 1675590219103
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.06927245868358789,
+      "timestamp": 1675595671921
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.09015777610818775,
+      "timestamp": 1675598126699
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.07725984678984599,
+      "timestamp": 1675629666594
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.11551790527531779,
+      "timestamp": 1675635992560
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.0987659120292308,
+      "timestamp": 1675647596359
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.13691683569979476,
+      "timestamp": 1675649872492
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.21836249617319717,
+      "timestamp": 1675652469767
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.21836249617319717,
+      "timestamp": 1675652704764
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.21836249617319717,
+      "timestamp": 1675652806809
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.21836249617319717,
+      "timestamp": 1675652884446
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.21836249617319717,
+      "timestamp": 1675666242410
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.18022851879935703,
+      "timestamp": 1675666958460
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.18022851879935703,
+      "timestamp": 1675675377050
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.18022851879935703,
+      "timestamp": 1675675384004
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.18022851879935703,
+      "timestamp": 1675685033633
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.18022851879935703,
+      "timestamp": 1675692518182
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.18022851879935703,
+      "timestamp": 1675693311866
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2617571812197387,
+      "timestamp": 1675699120577
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2617571812197387,
+      "timestamp": 1675699903664
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2617571812197387,
+      "timestamp": 1675699936981
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2617571812197387,
+      "timestamp": 1675710118198
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2617571812197387,
+      "timestamp": 1675737897621
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2617571812197387,
+      "timestamp": 1675739632239
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3345600933362211,
+      "timestamp": 1675757533674
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.3345600933362211,
+      "timestamp": 1675758774924
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2983750325970117,
+      "timestamp": 1675777306283
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.2623018555807799,
+      "timestamp": 1675788191739
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.22113900505338113,
+      "timestamp": 1675789301654
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.22113900505338113,
+      "timestamp": 1675799833297
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.22113900505338113,
+      "timestamp": 1675826103891
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.1910109608655835,
+      "timestamp": 1675834246304
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.1910109608655835,
+      "timestamp": 1675836224821
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.1910109608655835,
+      "timestamp": 1675856325493
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.15824473528272356,
+      "timestamp": 1675859726225
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.12295358327869138,
+      "timestamp": 1675861221719
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.08510824456290983,
+      "timestamp": 1675861745313
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.1065043742868006,
+      "timestamp": 1675875911972
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.15963511972633906,
+      "timestamp": 1675878499631
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.15963511972633906,
+      "timestamp": 1675882791335
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.15963511972633906,
+      "timestamp": 1675893296646
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.15963511972633906,
+      "timestamp": 1675893732207
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.12133561761986641,
+      "timestamp": 1675898598429
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.08304589202956644,
+      "timestamp": 1675902452719
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19166400636779782,
+      "timestamp": 1675908761508
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.19166400636779782,
+      "timestamp": 1675909197807
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.14774203246261672,
+      "timestamp": 1675922659582
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.14774203246261672,
+      "timestamp": 1676096792556
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.14774203246261672,
+      "timestamp": 1676163570857
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.11215971413772366,
+      "timestamp": 1676165533951
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.08206807140759126,
+      "timestamp": 1676173319737
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.09854913769504343,
+      "timestamp": 1676175273108
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.09854913769504343,
+      "timestamp": 1676182228191
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.09854913769504343,
+      "timestamp": 1676183414038
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.09854913769504343,
+      "timestamp": 1676191649787
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.0658782964208812,
+      "timestamp": 1676205923763
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.06256370743140033,
+      "timestamp": 1676207272597
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.09520322226290909,
+      "timestamp": 1676520346974
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10263929618768418,
+      "timestamp": 1676522480188
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10263929618768418,
+      "timestamp": 1676632941649
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10263929618768418,
+      "timestamp": 1676632946214
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10263929618768418,
+      "timestamp": 1676632959672
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10263929618768418,
+      "timestamp": 1676632962005
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10603382984095018,
+      "timestamp": 1676632983246
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10603382984095018,
+      "timestamp": 1676632990965
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10603382984095018,
+      "timestamp": 1676633034430
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10603382984095018,
+      "timestamp": 1676633040790
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.10603382984095018,
+      "timestamp": 1676633058699
+    },
+    {
+      "tickerName": "ADAUSDT",
+      "dynamicOffset": 0.07026631866360192,
+      "timestamp": 1678040712241
+    }
+  ]
+}

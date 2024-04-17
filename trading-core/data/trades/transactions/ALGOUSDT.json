@@ -1,0 +1,52 @@
+{
+  "orders": [
+    {
+      "orderId": 7417399277,
+      "symbol": "ALGOUSDT",
+      "status": "FILLED",
+      "clientOrderId": "ZYdM89pmvKn9hlH8yzN3Wb",
+      "price": "0.2231",
+      "avgPrice": "0.22310",
+      "origQty": "242",
+      "executedQty": "242",
+      "cumQuote": "53.99020",
+      "timeInForce": "FOK",
+      "type": "LIMIT",
+      "reduceOnly": false,
+      "closePosition": false,
+      "side": "SELL",
+      "positionSide": "BOTH",
+      "stopPrice": "0",
+      "workingType": "CONTRACT_PRICE",
+      "priceProtect": false,
+      "origType": "LIMIT",
+      "time": 1679440109649,
+      "updateTime": 1679440109649
+    },
+    "{\"orderId\":7417417231,\"symbol\":\"ALGOUSDT\",\"status\":\"NEW\",\"clientOrderId\":\"qLMeL4JpOKv8fVLYkzxKy6\",\"price\":\"0\",\"avgPrice\":\"0.00000\",\"origQty\":\"242\",\"executedQty\":\"0\",\"cumQty\":\"0\",\"cumQuote\":\"0\",\"timeInForce\":\"GTC\",\"type\":\"MARKET\",\"reduceOnly\":true,\"closePosition\":false,\"side\":\"BUY\",\"positionSide\":\"BOTH\",\"stopPrice\":\"0\",\"workingType\":\"CONTRACT_PRICE\",\"priceProtect\":false,\"origType\":\"MARKET\",\"updateTime\":1679440586216}",
+    {
+      "orderId": 7417428287,
+      "symbol": "ALGOUSDT",
+      "status": "FILLED",
+      "clientOrderId": "NaiB6cN5PdQhr4tLPHbmgV",
+      "price": "0.2236",
+      "avgPrice": "0.22360",
+      "origQty": "110",
+      "executedQty": "110",
+      "cumQuote": "24.59600",
+      "timeInForce": "FOK",
+      "type": "LIMIT",
+      "reduceOnly": false,
+      "closePosition": false,
+      "side": "SELL",
+      "positionSide": "BOTH",
+      "stopPrice": "0",
+      "workingType": "CONTRACT_PRICE",
+      "priceProtect": false,
+      "origType": "LIMIT",
+      "time": 1679440827343,
+      "updateTime": 1679440827343
+    },
+    "{\"orderId\":7417459260,\"symbol\":\"ALGOUSDT\",\"status\":\"NEW\",\"clientOrderId\":\"TighODGrfRPZVKYFl8AIrM\",\"price\":\"0\",\"avgPrice\":\"0.00000\",\"origQty\":\"110\",\"executedQty\":\"0\",\"cumQty\":\"0\",\"cumQuote\":\"0\",\"timeInForce\":\"GTC\",\"type\":\"MARKET\",\"reduceOnly\":true,\"closePosition\":false,\"side\":\"BUY\",\"positionSide\":\"BOTH\",\"stopPrice\":\"0\",\"workingType\":\"CONTRACT_PRICE\",\"priceProtect\":false,\"origType\":\"MARKET\",\"updateTime\":1679441776168}"
+  ]
+}

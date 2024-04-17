@@ -1,0 +1,102 @@
+{
+  "banks": [
+    {
+      "ticker": {
+        "first": "BTC",
+        "last": "USDT"
+      },
+      "account": 1058.13
+    },
+    {
+      "ticker": {
+        "first": "ETH",
+        "last": "USDT"
+      },
+      "account": 953.27
+    },
+    {
+      "ticker": {
+        "first": "ALGO",
+        "last": "USDT"
+      },
+      "account": 1158.97
+    },
+    {
+      "ticker": {
+        "first": "ADA",
+        "last": "USDT"
+      },
+      "account": 1435.64
+    },
+    {
+      "ticker": {
+        "first": "ETC",
+        "last": "USDT"
+      },
+      "account": 1261.42
+    },
+    {
+      "ticker": {
+        "first": "CHZ",
+        "last": "USDT"
+      },
+      "account": 1100.04
+    },
+    {
+      "ticker": {
+        "first": "LINK",
+        "last": "USDT"
+      },
+      "account": 1307.68
+    },
+    {
+      "ticker": {
+        "first": "LTC",
+        "last": "USDT"
+      },
+      "account": 1199.7
+    },
+    {
+      "ticker": {
+        "first": "MASK",
+        "last": "USDT"
+      },
+      "account": 1941.85
+    },
+    {
+      "ticker": {
+        "first": "CRV",
+        "last": "USDT"
+      },
+      "account": 1142.85
+    },
+    {
+      "ticker": {
+        "first": "SUSHI",
+        "last": "USDT"
+      },
+      "account": 1959.83
+    },
+    {
+      "ticker": {
+        "first": "NEAR",
+        "last": "USDT"
+      },
+      "account": 2188.42
+    },
+    {
+      "ticker": {
+        "first": "MATIC",
+        "last": "USDT"
+      },
+      "account": 1141.64
+    },
+    {
+      "ticker": {
+        "first": "BNB",
+        "last": "USDT"
+      },
+      "account": 1108.21
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3353805708348574,
+      "timestamp": 1674432806215
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3353805708348574,
+      "timestamp": 1674435484214
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3353805708348574,
+      "timestamp": 1674447630661
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3353805708348574,
+      "timestamp": 1674448972923
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.30095716291747465,
+      "timestamp": 1674458825678
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2665337550000919,
+      "timestamp": 1674459163566
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2665337550000919,
+      "timestamp": 1674468670836
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2665337550000919,
+      "timestamp": 1674514099132
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.22406089044133723,
+      "timestamp": 1674514890592
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.22406089044133723,
+      "timestamp": 1674518253938
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.22406089044133723,
+      "timestamp": 1674518832599
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.22406089044133723,
+      "timestamp": 1674528288281
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.22406089044133723,
+      "timestamp": 1674546278732
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.22406089044133723,
+      "timestamp": 1674546366327
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.22406089044133723,
+      "timestamp": 1674553316810
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.18877092455497088,
+      "timestamp": 1674567225794
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.18877092455497088,
+      "timestamp": 1674585546525
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2600552301270275,
+      "timestamp": 1674591457422
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2600552301270275,
+      "timestamp": 1674592807422
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.21461699026095177,
+      "timestamp": 1674593683706
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.21461699026095177,
+      "timestamp": 1674596916067
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.32074337713987294,
+      "timestamp": 1674687377491
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.4317070727133876,
+      "timestamp": 1674687428105
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.4317070727133876,
+      "timestamp": 1674688717740
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3881446332167752,
+      "timestamp": 1674693831539
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3881446332167752,
+      "timestamp": 1674709619979
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3496645947367356,
+      "timestamp": 1674711091778
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.31579089524484216,
+      "timestamp": 1674725184926
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.31579089524484216,
+      "timestamp": 1674768894686
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.31579089524484216,
+      "timestamp": 1674774161491
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.31579089524484216,
+      "timestamp": 1674791253404
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.31579089524484216,
+      "timestamp": 1674796259701
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.31579089524484216,
+      "timestamp": 1674798867688
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.31579089524484216,
+      "timestamp": 1674817986523
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2787767064724794,
+      "timestamp": 1674818941615
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2417807760248286,
+      "timestamp": 1674834979037
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.20477571866698965,
+      "timestamp": 1674835587502
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.16309372773895153,
+      "timestamp": 1674854489058
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.16309372773895153,
+      "timestamp": 1674881711841
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12683995130390618,
+      "timestamp": 1674883129066
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.09285936877963404,
+      "timestamp": 1674907475046
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.06585272482639082,
+      "timestamp": 1674919758559
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.09564684242795594,
+      "timestamp": 1674927573982
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.09564684242795594,
+      "timestamp": 1674934943227
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.06380360911503573,
+      "timestamp": 1674950713682
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.06367087057670957,
+      "timestamp": 1674951077653
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.10276486420357321,
+      "timestamp": 1674952397380
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.20769700671961328,
+      "timestamp": 1674958116160
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.20769700671961328,
+      "timestamp": 1674959393086
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.1711606530477097,
+      "timestamp": 1674990900161
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.1394880985343701,
+      "timestamp": 1675009088385
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.10574502791494345,
+      "timestamp": 1675034797252
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.10574502791494345,
+      "timestamp": 1675037401158
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.10574502791494345,
+      "timestamp": 1675037690406
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12335227959849893,
+      "timestamp": 1675050986913
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12335227959849893,
+      "timestamp": 1675052257853
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12335227959849893,
+      "timestamp": 1675056732125
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12335227959849893,
+      "timestamp": 1675056791112
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12335227959849893,
+      "timestamp": 1675085540808
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12335227959849893,
+      "timestamp": 1675092770097
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.12335227959849893,
+      "timestamp": 1675116563679
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.13021830716200955,
+      "timestamp": 1675117772171
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.21216452995330226,
+      "timestamp": 1675118432871
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.21216452995330226,
+      "timestamp": 1675124283309
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2941737559912311,
+      "timestamp": 1675125340698
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3813420677461361,
+      "timestamp": 1675125474545
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3813420677461361,
+      "timestamp": 1675125692209
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3813420677461361,
+      "timestamp": 1675125832090
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3813420677461361,
+      "timestamp": 1675125849550
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3813420677461361,
+      "timestamp": 1675125910209
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3406916612420713,
+      "timestamp": 1675130306186
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3406916612420713,
+      "timestamp": 1675136226243
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3406916612420713,
+      "timestamp": 1675136328298
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3406916612420713,
+      "timestamp": 1675136407390
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3406916612420713,
+      "timestamp": 1675148708382
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3406916612420713,
+      "timestamp": 1675148837392
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.29922318947722243,
+      "timestamp": 1675298666337
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.29922318947722243,
+      "timestamp": 1675302827997
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.29922318947722243,
+      "timestamp": 1675304103646
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.26519304849520947,
+      "timestamp": 1675311738221
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.26519304849520947,
+      "timestamp": 1675318464714
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.26519304849520947,
+      "timestamp": 1675327257635
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.26519304849520947,
+      "timestamp": 1675346135408
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3472889074834977,
+      "timestamp": 1675365820080
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3472889074834977,
+      "timestamp": 1675366980463
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3087903511793594,
+      "timestamp": 1675372007644
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3087903511793594,
+      "timestamp": 1675395906959
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3087903511793594,
+      "timestamp": 1675397544791
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3087903511793594,
+      "timestamp": 1675398749523
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.3087903511793594,
+      "timestamp": 1675406739945
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.27452701295126314,
+      "timestamp": 1675408439794
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.2377938183877759,
+      "timestamp": 1675410018259
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.19404077998233052,
+      "timestamp": 1675436710678
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.15731657873370763,
+      "timestamp": 1675443378887
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.15731657873370763,
+      "timestamp": 1675444854590
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.11797554111384065,
+      "timestamp": 1675445967517
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.11797554111384065,
+      "timestamp": 1675453919949
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.08625661955717435,
+      "timestamp": 1675470159579
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.10995723885155782,
+      "timestamp": 1675474646226
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.08067466198479406,
+      "timestamp": 1675494990581
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.058558006414411605,
+      "timestamp": 1675496255729
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.08778346744696666,
+      "timestamp": 1675498213015
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.09497138682576574,
+      "timestamp": 1675521547121
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.06331425788384382,
+      "timestamp": 1675527852419
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.07266561705219818,
+      "timestamp": 1675535576555
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.08233442305363745,
+      "timestamp": 1675535911234
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.10787486515641864,
+      "timestamp": 1675540743797
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.115025161754137,
+      "timestamp": 1675541064377
+    },
+    {
+      "tickerName": "XRPUSDT",
+      "dynamicOffset": 0.08377140529302332,
+      "timestamp": 1675550680089
+    }
+  ]
+}

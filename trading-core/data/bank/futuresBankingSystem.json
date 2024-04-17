@@ -1,0 +1,48 @@
+{
+  "banks": [
+    {
+      "symbol": "SUSHIUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "MASKUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "ALGOUSDT",
+      "account": 19.947000000000003
+    },
+    {
+      "symbol": "ADAUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "MATICUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "ETCUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "CHZUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "LINKUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "LTCUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "CRVUSDT",
+      "account": 20
+    },
+    {
+      "symbol": "BNBUSDT",
+      "account": 20
+    }
+  ]
+}

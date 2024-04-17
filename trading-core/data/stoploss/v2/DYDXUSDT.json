@@ -1,0 +1,669 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6768189509306267,
+      "timestamp": 1674445518349
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6768189509306267,
+      "timestamp": 1674446863362
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.620827909497256,
+      "timestamp": 1674459023287
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.620827909497256,
+      "timestamp": 1674470146582
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7232461171786229,
+      "timestamp": 1674515022249
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7232461171786229,
+      "timestamp": 1674516249120
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7232461171786229,
+      "timestamp": 1674526895172
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7232461171786229,
+      "timestamp": 1674527174346
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7232461171786229,
+      "timestamp": 1674530395364
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7232461171786229,
+      "timestamp": 1674531367008
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6718028476730504,
+      "timestamp": 1674534715364
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6718028476730504,
+      "timestamp": 1674546966909
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6259049704498719,
+      "timestamp": 1674550034978
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6259049704498719,
+      "timestamp": 1674557900781
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5796086741535755,
+      "timestamp": 1674567458269
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5796086741535755,
+      "timestamp": 1674585735508
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6740039543895638,
+      "timestamp": 1674592751498
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6740039543895638,
+      "timestamp": 1674595205252
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5965446205398355,
+      "timestamp": 1674684620990
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5965446205398355,
+      "timestamp": 1674686840109
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5965446205398355,
+      "timestamp": 1674693899747
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5965446205398355,
+      "timestamp": 1674695109845
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5965446205398355,
+      "timestamp": 1674696031158
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7408745174470521,
+      "timestamp": 1674706305671
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674706795871
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674707585381
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674720446002
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674726310205
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674734869947
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674734910428
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674734957399
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8858020536789364,
+      "timestamp": 1674735019581
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8125419804188625,
+      "timestamp": 1674739902174
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8125419804188625,
+      "timestamp": 1674772524020
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8125419804188625,
+      "timestamp": 1674781090659
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8125419804188625,
+      "timestamp": 1674781150752
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8125419804188625,
+      "timestamp": 1674791679319
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8125419804188625,
+      "timestamp": 1674800079666
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8125419804188625,
+      "timestamp": 1674801291544
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7482037451247459,
+      "timestamp": 1674826591350
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6836578714502404,
+      "timestamp": 1674831627141
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6836578714502404,
+      "timestamp": 1674833493500
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6836578714502404,
+      "timestamp": 1674884223398
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6259972454205853,
+      "timestamp": 1674888588635
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5694386202302423,
+      "timestamp": 1674906354877
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.699562237666808,
+      "timestamp": 1674907357841
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6263021644067333,
+      "timestamp": 1674908227314
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6263021644067333,
+      "timestamp": 1674919818218
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5655382755178453,
+      "timestamp": 1674926156410
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5006172627500456,
+      "timestamp": 1674927216433
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5006172627500456,
+      "timestamp": 1674950153514
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5006172627500456,
+      "timestamp": 1674950195534
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.5006172627500456,
+      "timestamp": 1674950232305
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6207889365697901,
+      "timestamp": 1674970056356
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7408060818762606,
+      "timestamp": 1674970217439
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7408060818762606,
+      "timestamp": 1674972058709
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7408060818762606,
+      "timestamp": 1674977095184
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7408060818762606,
+      "timestamp": 1674977111940
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7408060818762606,
+      "timestamp": 1674988872525
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.679830472120164,
+      "timestamp": 1674990317479
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.679830472120164,
+      "timestamp": 1674999016674
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8091686915640107,
+      "timestamp": 1675037625491
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8091686915640107,
+      "timestamp": 1675038957361
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8091686915640107,
+      "timestamp": 1675041698673
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9221876004968506,
+      "timestamp": 1675049933192
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9221876004968506,
+      "timestamp": 1675051027384
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9221876004968506,
+      "timestamp": 1675051091445
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9221876004968506,
+      "timestamp": 1675051163210
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9221876004968506,
+      "timestamp": 1675051179987
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9221876004968506,
+      "timestamp": 1675051398478
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9221876004968506,
+      "timestamp": 1675051546669
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.140583232584211,
+      "timestamp": 1675051989349
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.140583232584211,
+      "timestamp": 1675052990060
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.080394066634081,
+      "timestamp": 1675067954640
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.080394066634081,
+      "timestamp": 1675069513671
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.2288332720477453,
+      "timestamp": 1675078234109
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.2288332720477453,
+      "timestamp": 1675080073733
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.2288332720477453,
+      "timestamp": 1675107558913
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.2288332720477453,
+      "timestamp": 1675141628514
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.2288332720477453,
+      "timestamp": 1675143444980
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.1522975217959823,
+      "timestamp": 1675144593554
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675298666817
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675305410428
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675305447613
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675306136993
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675306149715
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675306316712
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675306841161
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 1.0647975217959822,
+      "timestamp": 1675320256985
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9895442656454763,
+      "timestamp": 1675325250140
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9895442656454763,
+      "timestamp": 1675335855552
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9895442656454763,
+      "timestamp": 1675336512237
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9352818066993099,
+      "timestamp": 1675339401653
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.9352818066993099,
+      "timestamp": 1675341319315
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675348326872
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675360550988
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675361858407
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675361888646
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675365085647
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675365136295
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675365192926
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675365255761
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8719906674588029,
+      "timestamp": 1675365392408
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8043734397651393,
+      "timestamp": 1675372121986
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8043734397651393,
+      "timestamp": 1675397095941
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8043734397651393,
+      "timestamp": 1675402328815
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8043734397651393,
+      "timestamp": 1675404705704
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.731738037901883,
+      "timestamp": 1675431191723
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675431394775
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675432643010
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675435635695
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675436289582
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675441772194
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675443960608
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675458766326
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675458799129
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675458854107
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675458967298
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675459045979
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675491499283
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675491513355
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675491597095
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675491667816
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675491787880
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675500173308
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8834927011962239,
+      "timestamp": 1675507856203
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8294128538922623,
+      "timestamp": 1675508847051
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.8294128538922623,
+      "timestamp": 1675514845676
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7795996533941302,
+      "timestamp": 1675526504128
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7236469023838729,
+      "timestamp": 1675528648587
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6645948433318148,
+      "timestamp": 1675533498922
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.6645948433318148,
+      "timestamp": 1675548991294
+    },
+    {
+      "tickerName": "DYDXUSDT",
+      "dynamicOffset": 0.7932535760432977,
+      "timestamp": 1675561129139
+    }
+  ]
+}

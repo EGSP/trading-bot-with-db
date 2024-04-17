@@ -1,0 +1,1114 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4703199600940691,
+      "timestamp": 1674432099306
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5697447168585039,
+      "timestamp": 1674432663611
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.6746571716681726,
+      "timestamp": 1674433149306
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.6746571716681726,
+      "timestamp": 1674433205535
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.6746571716681726,
+      "timestamp": 1674446074521
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.6279116514471945,
+      "timestamp": 1674447272622
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.6279116514471945,
+      "timestamp": 1674453174335
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5852495354062398,
+      "timestamp": 1674454585266
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5444188419884293,
+      "timestamp": 1674462208104
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5444188419884293,
+      "timestamp": 1674467192930
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5044759033293714,
+      "timestamp": 1674514943557
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4615513075359827,
+      "timestamp": 1674516659655
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4200070055518843,
+      "timestamp": 1674518656624
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3769900855633551,
+      "timestamp": 1674519203718
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3769900855633551,
+      "timestamp": 1674538134758
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.45553146003740974,
+      "timestamp": 1674551074058
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.45553146003740974,
+      "timestamp": 1674552369664
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.45553146003740974,
+      "timestamp": 1674554181954
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.41781406114099273,
+      "timestamp": 1674562253009
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37874065896404663,
+      "timestamp": 1674564375415
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37874065896404663,
+      "timestamp": 1674569509063
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37874065896404663,
+      "timestamp": 1674586854722
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3331222350070167,
+      "timestamp": 1674680867080
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4486623852092121,
+      "timestamp": 1674687368694
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4486623852092121,
+      "timestamp": 1674688938932
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4082174913770577,
+      "timestamp": 1674702323638
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674708865850
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674714182011
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674714374628
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674714732589
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674714798718
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674714871889
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674736582882
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.37103213668598245,
+      "timestamp": 1674736634274
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.32609462790912647,
+      "timestamp": 1674775189765
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.44736657319573764,
+      "timestamp": 1674781077991
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.44736657319573764,
+      "timestamp": 1674782290849
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.44736657319573764,
+      "timestamp": 1674782514500
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.40795215878132257,
+      "timestamp": 1674794447551
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.36727609454119364,
+      "timestamp": 1674804052729
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.32124135924092234,
+      "timestamp": 1674815549656
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2779361975450355,
+      "timestamp": 1674817656085
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.23665368756842858,
+      "timestamp": 1674820294593
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.32874885257226444,
+      "timestamp": 1674826091375
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.32874885257226444,
+      "timestamp": 1674826159832
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2790662690779221,
+      "timestamp": 1674831460884
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2790662690779221,
+      "timestamp": 1674833254664
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.23700100006374245,
+      "timestamp": 1674868524951
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.23700100006374245,
+      "timestamp": 1674874005700
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.23700100006374245,
+      "timestamp": 1674875762338
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.23700100006374245,
+      "timestamp": 1674876228293
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.20207354170801997,
+      "timestamp": 1674878502150
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.20207354170801997,
+      "timestamp": 1674879806567
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.1645349976672644,
+      "timestamp": 1674880328242
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.1645349976672644,
+      "timestamp": 1674898831609
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.1245983454604202,
+      "timestamp": 1674919619999
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.1245983454604202,
+      "timestamp": 1674921867979
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.08645048118914825,
+      "timestamp": 1674923498433
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.10349824052991245,
+      "timestamp": 1674934946192
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11232059904319176,
+      "timestamp": 1674949787788
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11626297577854497,
+      "timestamp": 1674950301162
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.12034027249463966,
+      "timestamp": 1674950390017
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.14816847304157144,
+      "timestamp": 1674959364438
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.15721969383533044,
+      "timestamp": 1674962044242
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.118763437826541,
+      "timestamp": 1674978593500
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.08069927251930817,
+      "timestamp": 1674990455055
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.07612833061446564,
+      "timestamp": 1674990467612
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.07477101896611917,
+      "timestamp": 1674990719420
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11437908496731855,
+      "timestamp": 1674995911092
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.07907280419268123,
+      "timestamp": 1674996436023
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11746438938769962,
+      "timestamp": 1675004032884
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11746438938769962,
+      "timestamp": 1675004058142
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11746438938769962,
+      "timestamp": 1675004357115
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11746438938769962,
+      "timestamp": 1675008451127
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11746438938769962,
+      "timestamp": 1675032534046
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11803812495760091,
+      "timestamp": 1675053249986
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.08135016558391725,
+      "timestamp": 1675054358277
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11082985564753424,
+      "timestamp": 1675056255500
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11082985564753424,
+      "timestamp": 1675056331352
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11084502223742786,
+      "timestamp": 1675056418341
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.110860192978855,
+      "timestamp": 1675056646662
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11090573012939058,
+      "timestamp": 1675056694575
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11092091749400945,
+      "timestamp": 1675056886658
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11505273250239885,
+      "timestamp": 1675056900094
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11506849315068685,
+      "timestamp": 1675056924670
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11506849315068685,
+      "timestamp": 1675089209034
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.06937284281261419,
+      "timestamp": 1675106864994
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.21392709015498576,
+      "timestamp": 1675108258414
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.21392709015498576,
+      "timestamp": 1675110219790
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.17618576340219175,
+      "timestamp": 1675119122356
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.17618576340219175,
+      "timestamp": 1675120977661
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.17618576340219175,
+      "timestamp": 1675121760387
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.24531018736532545,
+      "timestamp": 1675144619220
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.32028135230188776,
+      "timestamp": 1675145022472
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.32028135230188776,
+      "timestamp": 1675146314838
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2785036385512563,
+      "timestamp": 1675155912525
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.22958337857501737,
+      "timestamp": 1675298666554
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3092044918978283,
+      "timestamp": 1675319034228
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3092044918978283,
+      "timestamp": 1675320250108
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.270864083846342,
+      "timestamp": 1675327233511
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.270864083846342,
+      "timestamp": 1675333089699
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.23643593539216534,
+      "timestamp": 1675343689133
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.23643593539216534,
+      "timestamp": 1675343804688
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.19922278674631028,
+      "timestamp": 1675344271486
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.19922278674631028,
+      "timestamp": 1675347914802
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.29424756106247163,
+      "timestamp": 1675365646338
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.40068134696681684,
+      "timestamp": 1675366518041
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5129409129877638,
+      "timestamp": 1675366967970
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5129409129877638,
+      "timestamp": 1675368285089
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4695334251961197,
+      "timestamp": 1675372002826
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4695334251961197,
+      "timestamp": 1675400137854
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4318476132064482,
+      "timestamp": 1675405198076
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.39513482021011975,
+      "timestamp": 1675409504530
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.355525257329938,
+      "timestamp": 1675410496801
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3192933732719673,
+      "timestamp": 1675429830550
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4002480805090387,
+      "timestamp": 1675431024762
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.48121408874523586,
+      "timestamp": 1675431064968
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5706995473582114,
+      "timestamp": 1675431394420
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5706995473582114,
+      "timestamp": 1675432624735
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5706995473582114,
+      "timestamp": 1675449039571
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5706995473582114,
+      "timestamp": 1675450249149
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.53484736864889,
+      "timestamp": 1675470009265
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.53484736864889,
+      "timestamp": 1675474668832
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.53484736864889,
+      "timestamp": 1675492949059
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.53484736864889,
+      "timestamp": 1675494821999
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.53484736864889,
+      "timestamp": 1675497772692
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.5028740594113844,
+      "timestamp": 1675512531884
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.464130459023949,
+      "timestamp": 1675521202544
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.464130459023949,
+      "timestamp": 1675527702479
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4214571848825758,
+      "timestamp": 1675535897929
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4214571848825758,
+      "timestamp": 1675545825665
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.4214571848825758,
+      "timestamp": 1675547930496
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3898876289152438,
+      "timestamp": 1675551310924
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.35693869975544146,
+      "timestamp": 1675551854480
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.35693869975544146,
+      "timestamp": 1675553841084
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.35693869975544146,
+      "timestamp": 1675553891336
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.35693869975544146,
+      "timestamp": 1675572813933
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.35693869975544146,
+      "timestamp": 1675574033326
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3252079968513928,
+      "timestamp": 1675575093431
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.29482964832888486,
+      "timestamp": 1675579835323
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.29482964832888486,
+      "timestamp": 1675581134567
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.29482964832888486,
+      "timestamp": 1675587638513
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.29482964832888486,
+      "timestamp": 1675590755189
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2614453111470793,
+      "timestamp": 1675591666052
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2614453111470793,
+      "timestamp": 1675612394573
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2614453111470793,
+      "timestamp": 1675612469385
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2614453111470793,
+      "timestamp": 1675612523518
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.22147956749877845,
+      "timestamp": 1675623437595
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.22147956749877845,
+      "timestamp": 1675637241965
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.22147956749877845,
+      "timestamp": 1675637272212
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.22147956749877845,
+      "timestamp": 1675637288085
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.22147956749877845,
+      "timestamp": 1675649872774
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.22147956749877845,
+      "timestamp": 1675651740088
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675652429983
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675653758096
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675660979241
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675661037194
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675661062094
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675661111028
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675665785800
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2991941821638145,
+      "timestamp": 1675676361072
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.26314775436480886,
+      "timestamp": 1675678503732
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.26314775436480886,
+      "timestamp": 1675679907430
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.26314775436480886,
+      "timestamp": 1675685587598
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2271117183287723,
+      "timestamp": 1675691028951
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2271117183287723,
+      "timestamp": 1675692480545
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.18805769359455773,
+      "timestamp": 1675693297716
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.18805769359455773,
+      "timestamp": 1675698989114
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.18805769359455773,
+      "timestamp": 1675712143009
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.18805769359455773,
+      "timestamp": 1675733099456
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.15620594898763687,
+      "timestamp": 1675746061292
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.1244324076820341,
+      "timestamp": 1675754200186
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.1244324076820341,
+      "timestamp": 1675756705826
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.08818739137177625,
+      "timestamp": 1675758347405
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.06275678072990429,
+      "timestamp": 1675777310917
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.206599861943078,
+      "timestamp": 1675783806877
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.206599861943078,
+      "timestamp": 1675783848415
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.206599861943078,
+      "timestamp": 1675783905606
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.206599861943078,
+      "timestamp": 1675783932674
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.206599861943078,
+      "timestamp": 1675783994517
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.206599861943078,
+      "timestamp": 1675784055506
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.206599861943078,
+      "timestamp": 1675787692626
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.16959445346030003,
+      "timestamp": 1675789183645
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.16959445346030003,
+      "timestamp": 1675798669274
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.16959445346030003,
+      "timestamp": 1675798970769
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.16959445346030003,
+      "timestamp": 1675798991050
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.13203446180696465,
+      "timestamp": 1675823179606
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.13203446180696465,
+      "timestamp": 1675825967460
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.0957621403783935,
+      "timestamp": 1675826666709
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.060892205236472374,
+      "timestamp": 1675836189307
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.09951624049758129,
+      "timestamp": 1675837327605
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.10365558703614272,
+      "timestamp": 1675837416929
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.06904632559778255,
+      "timestamp": 1675842457524
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.11227389285466824,
+      "timestamp": 1675844805850
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.12510425354461785,
+      "timestamp": 1675845537460
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.13376062421624646,
+      "timestamp": 1675845558218
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.13376062421624646,
+      "timestamp": 1675856280349
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.13376062421624646,
+      "timestamp": 1675857487479
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.13376062421624646,
+      "timestamp": 1675858534280
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.09759928902848472,
+      "timestamp": 1675861092533
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.07230849250536325,
+      "timestamp": 1675861818936
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.13400335008375222,
+      "timestamp": 1675863030283
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.17216040310728686,
+      "timestamp": 1675876912381
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.17216040310728686,
+      "timestamp": 1675878581174
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2626709390993673,
+      "timestamp": 1675882465675
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2130079380351599,
+      "timestamp": 1675883349667
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2130079380351599,
+      "timestamp": 1675893739211
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2130079380351599,
+      "timestamp": 1675894942569
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2130079380351599,
+      "timestamp": 1675898157078
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2130079380351599,
+      "timestamp": 1675898198997
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2130079380351599,
+      "timestamp": 1675898227559
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.2130079380351599,
+      "timestamp": 1675898508870
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.16832144173576033,
+      "timestamp": 1675909174549
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.26084264451139744,
+      "timestamp": 1675911349800
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.35618756879631,
+      "timestamp": 1675911409801
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3107459328974176,
+      "timestamp": 1675922574216
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.3107459328974176,
+      "timestamp": 1675924568215
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.41489060955634355,
+      "timestamp": 1675925965633
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.41489060955634355,
+      "timestamp": 1675926006632
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.41489060955634355,
+      "timestamp": 1676520411325
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.41489060955634355,
+      "timestamp": 1676522481808
+    },
+    {
+      "tickerName": "LINKUSDT",
+      "dynamicOffset": 0.41489060955634355,
+      "timestamp": 1676522488005
+    }
+  ]
+}

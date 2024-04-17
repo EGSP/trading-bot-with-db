@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "axios": "^1.3.2",
+    "lowdb": "^1.0.0",
+    "node-binance-api": "^0.13.1",
+    "node-telegram-bot-api": "^0.59.0",
+    "pm2": "^5.2.2",
+    "puppeteer": "^19.2.0",
+    "qs": "^6.11.0",
+    "string-table": "^0.1.5",
+    "strongly-typed-events": "^3.0.9",
+    "typescript": "^4.9.4",
+    "zeromq": "^6.0.0-beta.16"
+  },
+  "devDependencies": {
+    "@types/lowdb": "^1.0.11"
+  },
+  "name": "trading-core",
+  "description": "feat. Jay-Z",
+  "version": "1.0.0",
+  "main": "dist/trader.js",
+  "scripts": {
+    "build": "tsc",
+    "launch": "tsc && node build/trading-core/trader.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

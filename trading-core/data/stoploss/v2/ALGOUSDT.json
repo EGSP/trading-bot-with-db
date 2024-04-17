@@ -1,0 +1,1184 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4862236628849297,
+      "timestamp": 1674432098729
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5909146232231617,
+      "timestamp": 1674433232175
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7033192799875121,
+      "timestamp": 1674433996238
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7033192799875121,
+      "timestamp": 1674434165729
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6587578054078072,
+      "timestamp": 1674439779386
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6587578054078072,
+      "timestamp": 1674446078418
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7314116903724902,
+      "timestamp": 1674458773166
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7314116903724902,
+      "timestamp": 1674460150161
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6866689610660018,
+      "timestamp": 1674461172198
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6866689610660018,
+      "timestamp": 1674513262596
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6866689610660018,
+      "timestamp": 1674515617067
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6382818642918091,
+      "timestamp": 1674516666211
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5987873935177175,
+      "timestamp": 1674537216703
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5987873935177175,
+      "timestamp": 1674552280980
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7012100840830138,
+      "timestamp": 1674553379574
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7012100840830138,
+      "timestamp": 1674553751226
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6580304962518049,
+      "timestamp": 1674567278626
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6580304962518049,
+      "timestamp": 1674585729709
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6097601824947652,
+      "timestamp": 1674594138702
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7251765056604688,
+      "timestamp": 1674687377080
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7251765056604688,
+      "timestamp": 1674688705538
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.688389258572792,
+      "timestamp": 1674701734210
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.688389258572792,
+      "timestamp": 1674705858652
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.688389258572792,
+      "timestamp": 1674707310953
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6472708375201603,
+      "timestamp": 1674708096519
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6103629023140917,
+      "timestamp": 1674714215042
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674714231703
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674714450151
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674714616215
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674714681383
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674715209810
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674718489725
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674720051114
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674723620344
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674725734616
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674725834494
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674726046749
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5734549671080231,
+      "timestamp": 1674726125267
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5323365460553915,
+      "timestamp": 1674726765889
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5323365460553915,
+      "timestamp": 1674736586416
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5323365460553915,
+      "timestamp": 1674736642181
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6147428089313701,
+      "timestamp": 1674739853119
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5735566474816172,
+      "timestamp": 1674767978928
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.540675430876603,
+      "timestamp": 1674775112735
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.49127238435540055,
+      "timestamp": 1674779504229
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4416240599863489,
+      "timestamp": 1674782199060
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4416240599863489,
+      "timestamp": 1674783411429
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4416240599863489,
+      "timestamp": 1674800086900
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4416240599863489,
+      "timestamp": 1674800777730
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.40442629185243645,
+      "timestamp": 1674804316872
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.36352649635141393,
+      "timestamp": 1674817542606
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.31863769814696513,
+      "timestamp": 1674826215706
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2736938779222464,
+      "timestamp": 1674830000387
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.22656112065594716,
+      "timestamp": 1674849654021
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.22656112065594716,
+      "timestamp": 1674853939870
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.22656112065594716,
+      "timestamp": 1674875709398
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.18818813523768158,
+      "timestamp": 1674887725151
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.26484585850330067,
+      "timestamp": 1674890809548
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.26484585850330067,
+      "timestamp": 1674892687876
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.26484585850330067,
+      "timestamp": 1674894983208
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.26484585850330067,
+      "timestamp": 1674920529366
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3587793222997765,
+      "timestamp": 1674921377149
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3587793222997765,
+      "timestamp": 1674922587645
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.30836241324412306,
+      "timestamp": 1674923539347
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.26496134794524795,
+      "timestamp": 1674925125753
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2174554097029685,
+      "timestamp": 1674926834402
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.17833177903004202,
+      "timestamp": 1674946495113
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.17833177903004202,
+      "timestamp": 1674949899541
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.17833177903004202,
+      "timestamp": 1674949953836
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.17833177903004202,
+      "timestamp": 1674959320787
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.17833177903004202,
+      "timestamp": 1674966051330
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.14320982781053151,
+      "timestamp": 1674981566136
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.1044200683070404,
+      "timestamp": 1674990452040
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.07732456122008216,
+      "timestamp": 1674994818864
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.07260837573116626,
+      "timestamp": 1675003593714
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.11529592621060733,
+      "timestamp": 1675008720315
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.07717164104095423,
+      "timestamp": 1675034715480
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.12545143508838508,
+      "timestamp": 1675037146911
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.12545143508838508,
+      "timestamp": 1675052532893
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.1275362318840568,
+      "timestamp": 1675053741218
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.1275362318840568,
+      "timestamp": 1675089286443
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.20041753653444902,
+      "timestamp": 1675108211613
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.15472698617100186,
+      "timestamp": 1675123780673
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2459943580855439,
+      "timestamp": 1675130903877
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2459943580855439,
+      "timestamp": 1675132341550
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.31302410253464275,
+      "timestamp": 1675144592615
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3885432969965695,
+      "timestamp": 1675145021709
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3885432969965695,
+      "timestamp": 1675145316325
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3885432969965695,
+      "timestamp": 1675145747615
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3885432969965695,
+      "timestamp": 1675146745700
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3885432969965695,
+      "timestamp": 1675151251407
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3885432969965695,
+      "timestamp": 1675151353891
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3885432969965695,
+      "timestamp": 1675151529458
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.47476708692406233,
+      "timestamp": 1675319031908
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.47476708692406233,
+      "timestamp": 1675320377143
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.43530378779225487,
+      "timestamp": 1675325068549
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3926598645513171,
+      "timestamp": 1675344337288
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3926598645513171,
+      "timestamp": 1675345943383
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3458031679484284,
+      "timestamp": 1675346974933
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3458031679484284,
+      "timestamp": 1675349966393
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3458031679484284,
+      "timestamp": 1675350084085
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2950516551629524,
+      "timestamp": 1675351038310
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.39377958377506733,
+      "timestamp": 1675365667150
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5001221587845631,
+      "timestamp": 1675365757945
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6228215452876299,
+      "timestamp": 1675366971626
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6228215452876299,
+      "timestamp": 1675368013293
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5772634587272641,
+      "timestamp": 1675372009737
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5772634587272641,
+      "timestamp": 1675398561886
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5772634587272641,
+      "timestamp": 1675399771426
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5772634587272641,
+      "timestamp": 1675409602918
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5772634587272641,
+      "timestamp": 1675410257225
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5772634587272641,
+      "timestamp": 1675416058387
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5772634587272641,
+      "timestamp": 1675416876414
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5164500797838949,
+      "timestamp": 1675431029567
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4556367008405256,
+      "timestamp": 1675431116477
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3909117817466731,
+      "timestamp": 1675431612642
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3100959264455361,
+      "timestamp": 1675433020444
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3100959264455361,
+      "timestamp": 1675448585420
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3100959264455361,
+      "timestamp": 1675450222616
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3100959264455361,
+      "timestamp": 1675462067558
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3994148695047083,
+      "timestamp": 1675475222754
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4890005357981039,
+      "timestamp": 1675475773198
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4890005357981039,
+      "timestamp": 1675477088327
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4890005357981039,
+      "timestamp": 1675477221499
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4480550677169578,
+      "timestamp": 1675493330662
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4480550677169578,
+      "timestamp": 1675499428870
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.40726144635593464,
+      "timestamp": 1675499693480
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3737106541844524,
+      "timestamp": 1675506867886
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3737106541844524,
+      "timestamp": 1675508284767
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3737106541844524,
+      "timestamp": 1675509323794
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3737106541844524,
+      "timestamp": 1675526383796
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.32965779074832774,
+      "timestamp": 1675534091197
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29616941865530405,
+      "timestamp": 1675550853980
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.25899469746571296,
+      "timestamp": 1675551783775
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.21821619885588942,
+      "timestamp": 1675553645181
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.21821619885588942,
+      "timestamp": 1675564453401
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.18447674243602016,
+      "timestamp": 1675570895442
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.18447674243602016,
+      "timestamp": 1675572422734
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.18447674243602016,
+      "timestamp": 1675582619319
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.15068661666166475,
+      "timestamp": 1675585674685
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.21796376112064525,
+      "timestamp": 1675597591241
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2852912344701838,
+      "timestamp": 1675597887964
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2852912344701838,
+      "timestamp": 1675599167085
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2852912344701838,
+      "timestamp": 1675600205730
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2852912344701838,
+      "timestamp": 1675637204340
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2852912344701838,
+      "timestamp": 1675638199496
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.24268034932588822,
+      "timestamp": 1675647494522
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.320380427025966,
+      "timestamp": 1675652480090
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2775205010567476,
+      "timestamp": 1675653343214
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.24263001840507042,
+      "timestamp": 1675659182993
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2038402589015793,
+      "timestamp": 1675660209052
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.28154033660165706,
+      "timestamp": 1675661063637
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.28154033660165706,
+      "timestamp": 1675662970004
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.24662278083056058,
+      "timestamp": 1675676034921
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.20775764285932075,
+      "timestamp": 1675678118706
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.20775764285932075,
+      "timestamp": 1675681111162
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.20775764285932075,
+      "timestamp": 1675681434473
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.16899795293684008,
+      "timestamp": 1675684992289
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.1303431404126808,
+      "timestamp": 1675688224760
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.1303431404126808,
+      "timestamp": 1675689006976
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.09128064041268077,
+      "timestamp": 1675691857697
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.22430106147033307,
+      "timestamp": 1675699122499
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.30935808834062034,
+      "timestamp": 1675699325546
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2670422583733193,
+      "timestamp": 1675709066225
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.22861028296978353,
+      "timestamp": 1675714704666
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.19013394591707092,
+      "timestamp": 1675715773031
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.19013394591707092,
+      "timestamp": 1675721189701
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.19013394591707092,
+      "timestamp": 1675721374011
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.19013394591707092,
+      "timestamp": 1675722611962
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.26822844025522014,
+      "timestamp": 1675738888305
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.338444941132923,
+      "timestamp": 1675739427063
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.42396486338753836,
+      "timestamp": 1675740450240
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.42396486338753836,
+      "timestamp": 1675741684872
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.42396486338753836,
+      "timestamp": 1675742887965
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3605675111593066,
+      "timestamp": 1675767998730
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3014396471533941,
+      "timestamp": 1675777301500
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.2503820249797998,
+      "timestamp": 1675783849939
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.1991937251626147,
+      "timestamp": 1675786161693
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.1478740770687726,
+      "timestamp": 1675787425778
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.30702546505327416,
+      "timestamp": 1675794472462
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.43708326852148394,
+      "timestamp": 1675794559246
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.5671410719896938,
+      "timestamp": 1675794610213
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4947035493529679,
+      "timestamp": 1675795075257
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4067592474108641,
+      "timestamp": 1675796603668
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4067592474108641,
+      "timestamp": 1675809866212
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4067592474108641,
+      "timestamp": 1675814747269
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4067592474108641,
+      "timestamp": 1675825706826
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4067592474108641,
+      "timestamp": 1675842620686
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3641607383586817,
+      "timestamp": 1675843402322
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.3641607383586817,
+      "timestamp": 1675844555213
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675847955826
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675862659321
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675863905878
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675867363071
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675867426293
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675867550548
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675867569214
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.29962147697467423,
+      "timestamp": 1675867627417
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.4517127317275246,
+      "timestamp": 1675875468345
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.6104702813392566,
+      "timestamp": 1675876106449
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.782144101081746,
+      "timestamp": 1675876630848
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.9006316424652608,
+      "timestamp": 1675882179756
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.9006316424652608,
+      "timestamp": 1675883455325
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8453257316460404,
+      "timestamp": 1675889801018
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7964771622112877,
+      "timestamp": 1675901305166
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7404351306876453,
+      "timestamp": 1675902591871
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7404351306876453,
+      "timestamp": 1675922777253
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8628033149597331,
+      "timestamp": 1675923525731
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8628033149597331,
+      "timestamp": 1675924936013
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8628033149597331,
+      "timestamp": 1675925106008
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8628033149597331,
+      "timestamp": 1676086198050
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8628033149597331,
+      "timestamp": 1676086819792
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8628033149597331,
+      "timestamp": 1676087009398
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8628033149597331,
+      "timestamp": 1676089551408
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8230734778520652,
+      "timestamp": 1676100145072
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8230734778520652,
+      "timestamp": 1676140983356
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8230734778520652,
+      "timestamp": 1676141050893
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.8230734778520652,
+      "timestamp": 1676141305274
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.779274951075239,
+      "timestamp": 1676142454806
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.779274951075239,
+      "timestamp": 1676152801646
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7399822202304452,
+      "timestamp": 1676160615370
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7399822202304452,
+      "timestamp": 1676163572096
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7399822202304452,
+      "timestamp": 1676164837869
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7399822202304452,
+      "timestamp": 1676165716525
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7399822202304452,
+      "timestamp": 1676182226217
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7399822202304452,
+      "timestamp": 1676183428375
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7399822202304452,
+      "timestamp": 1676183436617
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676192210686
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676207573490
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676208946807
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676225790165
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676230022856
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676508163524
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676520546788
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": 0.7045142399348805,
+      "timestamp": 1676520831423
+    },
+    {
+      "tickerName": "ALGOUSDT",
+      "dynamicOffset": null,
+      "timestamp": 1679441775944
+    }
+  ]
+}

@@ -1,0 +1,1084 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.37289038475508207,
+      "timestamp": 1674428992195
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3414681305614024,
+      "timestamp": 1674440202211
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3414681305614024,
+      "timestamp": 1674446057174
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.30855651417637125,
+      "timestamp": 1674447294216
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2802788281822083,
+      "timestamp": 1674454212812
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2802788281822083,
+      "timestamp": 1674460025304
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2802788281822083,
+      "timestamp": 1674515622371
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.24517842393598024,
+      "timestamp": 1674516704685
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2139937114528972,
+      "timestamp": 1674518898959
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1814114827064857,
+      "timestamp": 1674531377660
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1814114827064857,
+      "timestamp": 1674537876359
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15303678044562002,
+      "timestamp": 1674543659360
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15303678044562002,
+      "timestamp": 1674547537862
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2128197083732546,
+      "timestamp": 1674551064409
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2128197083732546,
+      "timestamp": 1674553063983
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2128197083732546,
+      "timestamp": 1674564502444
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2128197083732546,
+      "timestamp": 1674565752818
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2128197083732546,
+      "timestamp": 1674565789835
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2128197083732546,
+      "timestamp": 1674567572828
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.18019214091783486,
+      "timestamp": 1674592222830
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1460405840922233,
+      "timestamp": 1674593530655
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2105867195124591,
+      "timestamp": 1674597278275
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.17446830396568355,
+      "timestamp": 1674680257416
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3300098026640138,
+      "timestamp": 1674686904242
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.4609034906023508,
+      "timestamp": 1674687373137
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.4609034906023508,
+      "timestamp": 1674688899374
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.4609034906023508,
+      "timestamp": 1674695637144
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.4307222524827142,
+      "timestamp": 1674709476162
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.4307222524827142,
+      "timestamp": 1674736646720
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3970553716778436,
+      "timestamp": 1674740063093
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3970553716778436,
+      "timestamp": 1674767803448
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3970553716778436,
+      "timestamp": 1674767857520
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3636102643312413,
+      "timestamp": 1674768698163
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.33294471802540043,
+      "timestamp": 1674778660622
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.3025572781672091,
+      "timestamp": 1674804285509
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2724876029327938,
+      "timestamp": 1674807323730
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.24211368958572724,
+      "timestamp": 1674807434513
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.24211368958572724,
+      "timestamp": 1674812972356
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674817172603
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674823010416
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674823601188
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674823638798
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674831188691
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674831477856
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674831705856
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674831733079
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674832234761
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674832278762
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674832360324
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674832440482
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674832527475
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21344474163997001,
+      "timestamp": 1674878711931
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.18511698605322768,
+      "timestamp": 1674879517905
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.18511698605322768,
+      "timestamp": 1674927557049
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.18511698605322768,
+      "timestamp": 1674932188830
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15839131654904642,
+      "timestamp": 1674945714673
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15839131654904642,
+      "timestamp": 1674953794463
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15839131654904642,
+      "timestamp": 1674953838933
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15839131654904642,
+      "timestamp": 1674953892179
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15839131654904642,
+      "timestamp": 1674954012878
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15863753823267362,
+      "timestamp": 1674957207143
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15863753823267362,
+      "timestamp": 1674958999608
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15863753823267362,
+      "timestamp": 1674959059205
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15863753823267362,
+      "timestamp": 1674965752191
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15863753823267362,
+      "timestamp": 1674968908364
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.13034594040529557,
+      "timestamp": 1674976020443
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.10389324663931374,
+      "timestamp": 1674979767267
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.158965722878552,
+      "timestamp": 1674984844977
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2148043672642529,
+      "timestamp": 1674985014497
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2148043672642529,
+      "timestamp": 1674985760081
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2148043672642529,
+      "timestamp": 1674985842659
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2148043672642529,
+      "timestamp": 1674985909012
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2148043672642529,
+      "timestamp": 1674985959752
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674986758049
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674986960269
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674987064345
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674987091582
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674987129881
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674987189624
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674987251044
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674987318054
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674987379498
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674996343257
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1674996501688
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2894395365200385,
+      "timestamp": 1675003385776
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.25850663306825594,
+      "timestamp": 1675033193269
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.25850663306825594,
+      "timestamp": 1675039174715
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.25850663306825594,
+      "timestamp": 1675053013195
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.22661969515956104,
+      "timestamp": 1675054120288
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.22661969515956104,
+      "timestamp": 1675057148559
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.22661969515956104,
+      "timestamp": 1675092768769
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.33136716324980653,
+      "timestamp": 1675107381807
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.33136716324980653,
+      "timestamp": 1675108391942
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.33136716324980653,
+      "timestamp": 1675123532404
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.33136716324980653,
+      "timestamp": 1675137531090
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.302018974226381,
+      "timestamp": 1675139360481
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.302018974226381,
+      "timestamp": 1675145796262
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2697667053932023,
+      "timestamp": 1675155525573
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.23991340739284786,
+      "timestamp": 1675160482890
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2109396626672469,
+      "timestamp": 1675166981262
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2109396626672469,
+      "timestamp": 1675167747744
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2109396626672469,
+      "timestamp": 1675305818573
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2109396626672469,
+      "timestamp": 1675316596486
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1818438374773161,
+      "timestamp": 1675317085580
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1818438374773161,
+      "timestamp": 1675317688931
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15168714834670832,
+      "timestamp": 1675323231844
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.12178614829645393,
+      "timestamp": 1675326883520
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09324950007454752,
+      "timestamp": 1675332753211
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09324950007454752,
+      "timestamp": 1675338031888
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06482288181034,
+      "timestamp": 1675342680480
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08863409206630583,
+      "timestamp": 1675347537505
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.18770162094430604,
+      "timestamp": 1675365638044
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2718870304870001,
+      "timestamp": 1675366482728
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2718870304870001,
+      "timestamp": 1675367691433
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.23669445352936197,
+      "timestamp": 1675371971548
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.23669445352936197,
+      "timestamp": 1675396522321
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2069143308081453,
+      "timestamp": 1675399865395
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2069143308081453,
+      "timestamp": 1675408765056
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2069143308081453,
+      "timestamp": 1675408827454
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2069143308081453,
+      "timestamp": 1675409348323
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2069143308081453,
+      "timestamp": 1675409414925
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2069143308081453,
+      "timestamp": 1675409595660
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.17700837884111345,
+      "timestamp": 1675430909310
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.23716619711757064,
+      "timestamp": 1675431021576
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675431064722
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675431198417
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675431619098
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675431717881
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675431896620
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675431928203
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675431988266
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675432047427
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675432088859
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675432279680
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675433530842
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675435389453
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675444777875
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675448869587
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.29740973117735214,
+      "timestamp": 1675449868198
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2680153451211283,
+      "timestamp": 1675463426323
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2680153451211283,
+      "timestamp": 1675464877631
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.2680153451211283,
+      "timestamp": 1675465458550
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.23881126340108463,
+      "timestamp": 1675470166496
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21256729726564655,
+      "timestamp": 1675492123298
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.21256729726564655,
+      "timestamp": 1675493971315
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.184041141517968,
+      "timestamp": 1675494922534
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15916472081102442,
+      "timestamp": 1675502471549
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15916472081102442,
+      "timestamp": 1675503762913
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15916472081102442,
+      "timestamp": 1675504966505
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15916472081102442,
+      "timestamp": 1675506028270
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1350157780242882,
+      "timestamp": 1675513652694
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1350157780242882,
+      "timestamp": 1675521939435
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1350157780242882,
+      "timestamp": 1675524915555
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1350157780242882,
+      "timestamp": 1675524988393
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.10809363498762352,
+      "timestamp": 1675528527392
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.10809363498762352,
+      "timestamp": 1675534043812
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08242472975364118,
+      "timestamp": 1675550664416
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.0567194874614826,
+      "timestamp": 1675551416267
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08456976149787011,
+      "timestamp": 1675564692477
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05862697712957691,
+      "timestamp": 1675578794405
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.07505333413298552,
+      "timestamp": 1675590515880
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08036087389771668,
+      "timestamp": 1675592131901
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05547358419210267,
+      "timestamp": 1675597099860
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.07491952255403085,
+      "timestamp": 1675598355186
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08140344860845058,
+      "timestamp": 1675599404665
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1492107141509808,
+      "timestamp": 1675636100008
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1492107141509808,
+      "timestamp": 1675637297212
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1492107141509808,
+      "timestamp": 1675637346648
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1168920583271715,
+      "timestamp": 1675640495081
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08752987977550172,
+      "timestamp": 1675647793839
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09049418718696561,
+      "timestamp": 1675649870475
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09049418718696561,
+      "timestamp": 1675651705598
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09207013745036784,
+      "timestamp": 1675652271506
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09395823641569735,
+      "timestamp": 1675652286745
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.0943594044873139,
+      "timestamp": 1675652356369
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09489315781885256,
+      "timestamp": 1675652411874
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09489315781885256,
+      "timestamp": 1675669343193
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09497656195340567,
+      "timestamp": 1675670048795
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06574629238536314,
+      "timestamp": 1675676070485
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.057327054235861374,
+      "timestamp": 1675691021733
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08666206397738298,
+      "timestamp": 1675692468779
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06075083412068039,
+      "timestamp": 1675693313592
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.10154365548436348,
+      "timestamp": 1675698877530
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.10167783697958906,
+      "timestamp": 1675698918643
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06833402915164946,
+      "timestamp": 1675709936655
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05970203331225533,
+      "timestamp": 1675712590245
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06302631657764193,
+      "timestamp": 1675714696722
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09526867207003063,
+      "timestamp": 1675734540716
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06899940994781582,
+      "timestamp": 1675753529054
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.07854518752281257,
+      "timestamp": 1675756556090
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08305070291333372,
+      "timestamp": 1675757760826
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08678431930327275,
+      "timestamp": 1675758966487
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05923577127417176,
+      "timestamp": 1675760473323
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05173020914911927,
+      "timestamp": 1675777305987
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08649687650168092,
+      "timestamp": 1675788855945
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09452761184137613,
+      "timestamp": 1675790061749
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06592367057020634,
+      "timestamp": 1675807923128
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08529629693450279,
+      "timestamp": 1675826317112
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08529629693450279,
+      "timestamp": 1675831472332
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05846912582530182,
+      "timestamp": 1675841969405
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05272737730020263,
+      "timestamp": 1675858571176
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.1170954582540076,
+      "timestamp": 1675876652644
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.12097510102985648,
+      "timestamp": 1675878112620
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.12097510102985648,
+      "timestamp": 1675883440894
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.12097510102985648,
+      "timestamp": 1675893763588
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.12097510102985648,
+      "timestamp": 1675893844175
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09419069366217854,
+      "timestamp": 1675897116664
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.06696768125888501,
+      "timestamp": 1675897335915
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.05418216339386006,
+      "timestamp": 1675897485854
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.051956771375047034,
+      "timestamp": 1675898750154
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.08373500948952807,
+      "timestamp": 1675909933326
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.0889643136757473,
+      "timestamp": 1675911105902
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09164314317600329,
+      "timestamp": 1675911136487
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.09164314317600329,
+      "timestamp": 1675911149007
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15198561315915135,
+      "timestamp": 1675925464724
+    },
+    {
+      "tickerName": "BTCUSDT",
+      "dynamicOffset": 0.15198561315915135,
+      "timestamp": 1675926951333
+    }
+  ]
+}

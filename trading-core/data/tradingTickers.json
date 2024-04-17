@@ -1,0 +1,10 @@
+{
+  "symbols": [
+    {
+      "value": "ALGOUSDTPERP",
+      "precision": 0,
+      "leverage": 11,
+      "maxLeverage": 20
+    }
+  ]
+}

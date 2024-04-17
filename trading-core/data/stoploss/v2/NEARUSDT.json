@@ -1,0 +1,769 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5402036152088053,
+      "timestamp": 1674432097184
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4783351887291183,
+      "timestamp": 1674432815076
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6099141360975395,
+      "timestamp": 1674433452012
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7412770260811192,
+      "timestamp": 1674433777917
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.8807070035262692,
+      "timestamp": 1674433949663
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 1.0194541979763807,
+      "timestamp": 1674434664995
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 1.0194541979763807,
+      "timestamp": 1674434814089
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 1.0194541979763807,
+      "timestamp": 1674434884480
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.9650218496093502,
+      "timestamp": 1674458984718
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.9105471414381449,
+      "timestamp": 1674459507022
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.8520105560722925,
+      "timestamp": 1674461337900
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7849361824285744,
+      "timestamp": 1674463713591
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.742341797142998,
+      "timestamp": 1674513768853
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.742341797142998,
+      "timestamp": 1674520084581
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6954851005401085,
+      "timestamp": 1674538227999
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6954851005401085,
+      "timestamp": 1674551590407
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6954851005401085,
+      "timestamp": 1674553089548
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.648628403937219,
+      "timestamp": 1674567146727
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.648628403937219,
+      "timestamp": 1674688579298
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.648628403937219,
+      "timestamp": 1674705683823
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.648628403937219,
+      "timestamp": 1674707232945
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6018812282457503,
+      "timestamp": 1674714206153
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5551340525542816,
+      "timestamp": 1674714227634
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5083868768628129,
+      "timestamp": 1674714290011
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6019176640802721,
+      "timestamp": 1674714447127
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5472087934276743,
+      "timestamp": 1674714990517
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.49247853541360154,
+      "timestamp": 1674718661949
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.49247853541360154,
+      "timestamp": 1674720078460
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.49247853541360154,
+      "timestamp": 1674721985566
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.49247853541360154,
+      "timestamp": 1674737589935
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.43787635132623715,
+      "timestamp": 1674738541843
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.3973084000077778,
+      "timestamp": 1674794124755
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.3973084000077778,
+      "timestamp": 1674800061074
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.3526564820049376,
+      "timestamp": 1674806463075
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.30752827687673195,
+      "timestamp": 1674822064544
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.30752827687673195,
+      "timestamp": 1674826834503
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.24639112586797027,
+      "timestamp": 1674827186312
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.1961883840259162,
+      "timestamp": 1674897402928
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.14809219164114662,
+      "timestamp": 1674922198188
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.10768815123710707,
+      "timestamp": 1674944496622
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.08079174936067368,
+      "timestamp": 1674949572381
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.08072652899367153,
+      "timestamp": 1674950575076
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.1696969696969725,
+      "timestamp": 1674959322134
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.1262444711783072,
+      "timestamp": 1674990335709
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.0869049970373306,
+      "timestamp": 1674990381201
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.0869049970373306,
+      "timestamp": 1674990449000
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.0868878255303088,
+      "timestamp": 1674990709633
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.08312784305322193,
+      "timestamp": 1674995846321
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.07782097627111931,
+      "timestamp": 1675033355074
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.07015662012899097,
+      "timestamp": 1675036102676
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.142517814726841,
+      "timestamp": 1675049759400
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.142517814726841,
+      "timestamp": 1675051056824
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15339233038347963,
+      "timestamp": 1675053006424
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.1138040485149118,
+      "timestamp": 1675066750475
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.13712861001454546,
+      "timestamp": 1675089306143
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": null,
+      "timestamp": 1675092775792
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.14332247557002833,
+      "timestamp": 1675122202486
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15564202334630364,
+      "timestamp": 1675123606215
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15564202334630364,
+      "timestamp": 1675129499733
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15564202334630364,
+      "timestamp": 1675129517915
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15564202334630364,
+      "timestamp": 1675129675961
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15564202334630364,
+      "timestamp": 1675129694168
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15564202334630364,
+      "timestamp": 1675129755662
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.15564202334630364,
+      "timestamp": 1675136447247
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.23381791911177507,
+      "timestamp": 1675144559387
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.3120277822445137,
+      "timestamp": 1675144619842
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.3903738105361342,
+      "timestamp": 1675145031322
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.3903738105361342,
+      "timestamp": 1675146320071
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.34247483383245414,
+      "timestamp": 1675155720208
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.34247483383245414,
+      "timestamp": 1675159918032
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.2993713855565911,
+      "timestamp": 1675167093056
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.389075768838957,
+      "timestamp": 1675318970188
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48703495251242646,
+      "timestamp": 1675319109505
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48703495251242646,
+      "timestamp": 1675320372860
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48703495251242646,
+      "timestamp": 1675327725645
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4420911322877087,
+      "timestamp": 1675335006458
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4420911322877087,
+      "timestamp": 1675351165932
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5775762886933664,
+      "timestamp": 1675366968321
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5775762886933664,
+      "timestamp": 1675368266361
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5210563048419341,
+      "timestamp": 1675379629021
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5210563048419341,
+      "timestamp": 1675397124735
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5210563048419341,
+      "timestamp": 1675398471943
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5210563048419341,
+      "timestamp": 1675399676336
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5210563048419341,
+      "timestamp": 1675409579995
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5210563048419341,
+      "timestamp": 1675416449164
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4761675066374855,
+      "timestamp": 1675430907368
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5741666899776244,
+      "timestamp": 1675431065322
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5251670983075549,
+      "timestamp": 1675431148131
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4761474904644176,
+      "timestamp": 1675431189173
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5824652169007284,
+      "timestamp": 1675431395002
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7143152375022942,
+      "timestamp": 1675432230395
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7143152375022942,
+      "timestamp": 1675433439908
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7143152375022942,
+      "timestamp": 1675435523127
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7143152375022942,
+      "timestamp": 1675435577785
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6617368755204948,
+      "timestamp": 1675448480182
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.6170849575176546,
+      "timestamp": 1675452945850
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5728638519900177,
+      "timestamp": 1675469777506
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5728638519900177,
+      "timestamp": 1675475346783
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5728638519900177,
+      "timestamp": 1675476745616
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5728638519900177,
+      "timestamp": 1675476815007
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5363007806920272,
+      "timestamp": 1675503449024
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.49976739323515734,
+      "timestamp": 1675504065359
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.49976739323515734,
+      "timestamp": 1675507287876
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.49976739323515734,
+      "timestamp": 1675544324717
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.602473298824728,
+      "timestamp": 1675557811781
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.602473298824728,
+      "timestamp": 1675557982653
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5397527970607139,
+      "timestamp": 1675561208682
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5003361632412429,
+      "timestamp": 1675570670917
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5003361632412429,
+      "timestamp": 1675580755398
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5003361632412429,
+      "timestamp": 1675580930413
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4646431233840154,
+      "timestamp": 1675589598950
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4249605837014766,
+      "timestamp": 1675590220604
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.38116205692464955,
+      "timestamp": 1675592447809
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48183319786424694,
+      "timestamp": 1675636773995
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48183319786424694,
+      "timestamp": 1675637101299
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48183319786424694,
+      "timestamp": 1675649904995
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48183319786424694,
+      "timestamp": 1675651785223
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48183319786424694,
+      "timestamp": 1675653674138
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48183319786424694,
+      "timestamp": 1675670158585
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.48183319786424694,
+      "timestamp": 1675670182568
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4395141119565035,
+      "timestamp": 1675676043182
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.39332473551308494,
+      "timestamp": 1675685418342
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.39332473551308494,
+      "timestamp": 1675692475092
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.39332473551308494,
+      "timestamp": 1675692738106
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.39332473551308494,
+      "timestamp": 1675692786403
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.39332473551308494,
+      "timestamp": 1675692855884
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4943773670920287,
+      "timestamp": 1675699197553
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5954299986709723,
+      "timestamp": 1675699344521
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5954299986709723,
+      "timestamp": 1675739743348
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5954299986709723,
+      "timestamp": 1675758860706
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5570422827400687,
+      "timestamp": 1675772153013
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5142340635619855,
+      "timestamp": 1675777338938
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5142340635619855,
+      "timestamp": 1675791970430
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4616344277133092,
+      "timestamp": 1675820170944
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4616344277133092,
+      "timestamp": 1675845523120
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.4062546808778652,
+      "timestamp": 1675846706940
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.358954720294499,
+      "timestamp": 1675851779391
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.5362073052280294,
+      "timestamp": 1675876033027
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7331797655599622,
+      "timestamp": 1675877336098
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7331797655599622,
+      "timestamp": 1675877399634
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7331797655599622,
+      "timestamp": 1675887180675
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.8519622451442237,
+      "timestamp": 1675892396523
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.8519622451442237,
+      "timestamp": 1675894088609
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1675898753968
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1675922850974
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1675924832007
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1675926666060
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1675929825213
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1675931028660
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1676086198949
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1676086200576
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1676087144946
+    },
+    {
+      "tickerName": "NEARUSDT",
+      "dynamicOffset": 0.7953904933056429,
+      "timestamp": 1676095803952
+    }
+  ]
+}

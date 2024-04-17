@@ -1,0 +1,864 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6035161374967118,
+      "timestamp": 1674441807278
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6035161374967118,
+      "timestamp": 1674455653173
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6909980023328991,
+      "timestamp": 1674457388688
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6909980023328991,
+      "timestamp": 1674457817989
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6478461942721407,
+      "timestamp": 1674466902669
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6094686385254328,
+      "timestamp": 1674515299590
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5692591959343535,
+      "timestamp": 1674516317060
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5294203220465221,
+      "timestamp": 1674518589961
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4873467597444344,
+      "timestamp": 1674519032374
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.44119427904859737,
+      "timestamp": 1674519644315
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.44119427904859737,
+      "timestamp": 1674526747634
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.44119427904859737,
+      "timestamp": 1674537210649
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4073161084698094,
+      "timestamp": 1674542387061
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4073161084698094,
+      "timestamp": 1674551057790
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.36890781942510303,
+      "timestamp": 1674584589423
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.36890781942510303,
+      "timestamp": 1674586049637
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3352430753893738,
+      "timestamp": 1674591675654
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3006681893293385,
+      "timestamp": 1674592102971
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.376228142554129,
+      "timestamp": 1674593089872
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3351863114570488,
+      "timestamp": 1674593961450
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3351863114570488,
+      "timestamp": 1674688578661
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.292090767719656,
+      "timestamp": 1674699324651
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.292090767719656,
+      "timestamp": 1674702346110
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.292090767719656,
+      "timestamp": 1674714378057
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.292090767719656,
+      "timestamp": 1674714432678
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.292090767719656,
+      "timestamp": 1674715869312
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3704685303079436,
+      "timestamp": 1674728819073
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3704685303079436,
+      "timestamp": 1674730325801
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.293908793565986,
+      "timestamp": 1674730945472
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.293908793565986,
+      "timestamp": 1674737550529
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.293908793565986,
+      "timestamp": 1674769038701
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.25687768286125057,
+      "timestamp": 1674775220725
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.25687768286125057,
+      "timestamp": 1674779159803
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.20622845180866772,
+      "timestamp": 1674780135660
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.20622845180866772,
+      "timestamp": 1674782097061
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.1673845211728281,
+      "timestamp": 1674791603922
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.1308552630866835,
+      "timestamp": 1674794529718
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.20018896619976612,
+      "timestamp": 1674798862831
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.20018896619976612,
+      "timestamp": 1674799335753
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.20018896619976612,
+      "timestamp": 1674800645988
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.16540151751125162,
+      "timestamp": 1674804512649
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12874513628488657,
+      "timestamp": 1674811046297
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12874513628488657,
+      "timestamp": 1674818032605
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.09205640994098752,
+      "timestamp": 1674818675030
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.09877802768567465,
+      "timestamp": 1674823694832
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.08063394954343295,
+      "timestamp": 1674834990029
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12721428082894462,
+      "timestamp": 1674853940447
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.08529511192203307,
+      "timestamp": 1674869942844
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12193172736613582,
+      "timestamp": 1674872967859
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12193172736613582,
+      "timestamp": 1674879248333
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12193172736613582,
+      "timestamp": 1674880005754
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12193172736613582,
+      "timestamp": 1674888372338
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12193172736613582,
+      "timestamp": 1674890901705
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12193172736613582,
+      "timestamp": 1674899405282
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.12193172736613582,
+      "timestamp": 1674920389416
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.08156708937231565,
+      "timestamp": 1674921657822
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.11917960088691591,
+      "timestamp": 1674927521698
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.11917960088691591,
+      "timestamp": 1674934942047
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.11917960088691591,
+      "timestamp": 1674951053172
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.34655065575792005,
+      "timestamp": 1674953828829
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5009561497208421,
+      "timestamp": 1674954306631
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6562558647054677,
+      "timestamp": 1674954339777
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6562558647054677,
+      "timestamp": 1674959317062
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6562558647054677,
+      "timestamp": 1674961940253
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6562558647054677,
+      "timestamp": 1674976165567
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6562558647054677,
+      "timestamp": 1674987967764
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6188060207464844,
+      "timestamp": 1674997889397
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5778680062401885,
+      "timestamp": 1674999089915
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5778680062401885,
+      "timestamp": 1675004926422
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5778680062401885,
+      "timestamp": 1675004981774
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5428122053926366,
+      "timestamp": 1675031359692
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5059323315840112,
+      "timestamp": 1675033286871
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5059323315840112,
+      "timestamp": 1675045592549
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5059323315840112,
+      "timestamp": 1675052018285
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5059323315840112,
+      "timestamp": 1675052052556
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5059323315840112,
+      "timestamp": 1675089304830
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5059323315840112,
+      "timestamp": 1675108212124
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5789147877243648,
+      "timestamp": 1675144704418
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5789147877243648,
+      "timestamp": 1675146071692
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675155685011
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675159344014
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675166583387
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675167925027
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675319675666
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675320880292
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675332298852
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5391254372269975,
+      "timestamp": 1675333506756
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5045754726628588,
+      "timestamp": 1675336643576
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6184618451230646,
+      "timestamp": 1675365775482
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.7282674891331667,
+      "timestamp": 1675385824785
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.7282674891331667,
+      "timestamp": 1675387527499
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.7282674891331667,
+      "timestamp": 1675388136827
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.7282674891331667,
+      "timestamp": 1675393494868
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.7282674891331667,
+      "timestamp": 1675406490106
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6809410014966697,
+      "timestamp": 1675407948127
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.6353195724597162,
+      "timestamp": 1675409757062
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5894588262582277,
+      "timestamp": 1675429829040
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5894588262582277,
+      "timestamp": 1675430868316
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.5336726024745604,
+      "timestamp": 1675436075190
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.49212639838418615,
+      "timestamp": 1675447109004
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4451860552929514,
+      "timestamp": 1675448844123
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4451860552929514,
+      "timestamp": 1675464255763
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4451860552929514,
+      "timestamp": 1675464331085
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4451860552929514,
+      "timestamp": 1675478924906
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.40361483275965093,
+      "timestamp": 1675485172316
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3612006155140311,
+      "timestamp": 1675485330146
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3612006155140311,
+      "timestamp": 1675493819830
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3266273393759943,
+      "timestamp": 1675503404001
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3266273393759943,
+      "timestamp": 1675506058033
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3266273393759943,
+      "timestamp": 1675507346312
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3266273393759943,
+      "timestamp": 1675526062788
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3266273393759943,
+      "timestamp": 1675538240960
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.39779582663186863,
+      "timestamp": 1675549695763
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4714149510605955,
+      "timestamp": 1675549978235
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4714149510605955,
+      "timestamp": 1675551387057
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4714149510605955,
+      "timestamp": 1675552591453
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4714149510605955,
+      "timestamp": 1675554199089
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4714149510605955,
+      "timestamp": 1675559779375
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4714149510605955,
+      "timestamp": 1675572697118
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675578794630
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675637204741
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675637455449
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675637472992
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675648288533
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675649904701
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675652153649
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675652165954
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675669061252
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.4380485328822327,
+      "timestamp": 1675669086717
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.401684896518596,
+      "timestamp": 1675676094014
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3639163510519335,
+      "timestamp": 1675680974565
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3639163510519335,
+      "timestamp": 1675681949680
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3639163510519335,
+      "timestamp": 1675682194084
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3639163510519335,
+      "timestamp": 1675691603797
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.3639163510519335,
+      "timestamp": 1675692827328
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675693828750
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675699034169
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675699087022
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675710099764
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675714553972
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675714578119
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675739070229
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.32159349448186736,
+      "timestamp": 1675739113315
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.28851791230692364,
+      "timestamp": 1675753575481
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.28851791230692364,
+      "timestamp": 1675756738046
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.28851791230692364,
+      "timestamp": 1675758397873
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.2515838818252245,
+      "timestamp": 1675777332982
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.21472038778778435,
+      "timestamp": 1675791760274
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.21472038778778435,
+      "timestamp": 1675791936330
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.21472038778778435,
+      "timestamp": 1675791974689
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.1781732245437887,
+      "timestamp": 1675826635355
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.24962669265114074,
+      "timestamp": 1675834807932
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.24962669265114074,
+      "timestamp": 1675834930089
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.21500664764508298,
+      "timestamp": 1675842229619
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.1791341462944624,
+      "timestamp": 1675843439984
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.1791341462944624,
+      "timestamp": 1675856444284
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.1791341462944624,
+      "timestamp": 1675856696588
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.14213821584681127,
+      "timestamp": 1675860795508
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.09984201160411052,
+      "timestamp": 1675861875653
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.09088579029024604,
+      "timestamp": 1675863373178
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.16759407922229164,
+      "timestamp": 1675878086723
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.2455702433266711,
+      "timestamp": 1675892682769
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.2455702433266711,
+      "timestamp": 1675893914183
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.20679932597111517,
+      "timestamp": 1675898584937
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.20679932597111517,
+      "timestamp": 1675910009540
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.28851173382261064,
+      "timestamp": 1675910667691
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.28851173382261064,
+      "timestamp": 1675911176271
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.28851173382261064,
+      "timestamp": 1675911186363
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.24351330876748692,
+      "timestamp": 1675922659830
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.24351330876748692,
+      "timestamp": 1675926578041
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.24351330876748692,
+      "timestamp": 1676520361401
+    },
+    {
+      "tickerName": "ETCUSDT",
+      "dynamicOffset": 0.24351330876748692,
+      "timestamp": 1676526527923
+    }
+  ]
+}

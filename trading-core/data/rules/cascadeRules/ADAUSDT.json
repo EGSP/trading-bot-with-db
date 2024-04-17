@@ -1,0 +1,89 @@
+{
+  "cascadeLossProtectionRules": [
+    {
+      "timestamp": 1674599040576,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674599207973,
+      "restricted": true,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674648413295,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674648790851,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674648860289,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674648890376,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674648924547,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649000174,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649031747,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649085789,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649144053,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649197113,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649255745,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649924713,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674649983276,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674658048066,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674666907879,
+      "restricted": false,
+      "side": "SHORT"
+    }
+  ]
+}

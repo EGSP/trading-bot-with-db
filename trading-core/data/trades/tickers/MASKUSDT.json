@@ -1,0 +1,51 @@
+{
+  "trades": [
+    {
+      "id": 2,
+      "ticker": "MASKUSDT",
+      "side": "LONG",
+      "trade_levels": [
+        "3.380",
+        "3.373"
+      ],
+      "trade_levels_time": [
+        1677904875544,
+        1677905180131
+      ],
+      "stop_loss": 3.356,
+      "exit_price": 3.356,
+      "is_active": false,
+      "quantity": 24,
+      "result": "❌",
+      "extra_params": {
+        "average_order": 3.3765,
+        "price_change": "-12.22%",
+        "realized_profit": 0,
+        "leverage": 20,
+        "text_result": "stop_loss",
+        "brief_result": "#loss"
+      },
+      "negativeMaxChange": "3.380"
+    }
+  ],
+  "activeTrade": {
+    "id": 3,
+    "ticker": "MASKUSDT",
+    "side": "",
+    "trade_levels": [],
+    "trade_levels_time": [],
+    "stop_loss": null,
+    "exit_price": "",
+    "is_active": true,
+    "quantity": 0,
+    "result": "",
+    "extra_params": {
+      "average_order": "",
+      "price_change": "",
+      "realized_profit": "",
+      "leverage": 20,
+      "text_result": "",
+      "brief_result": ""
+    }
+  }
+}

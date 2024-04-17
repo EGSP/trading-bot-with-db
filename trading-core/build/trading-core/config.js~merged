@@ -1,0 +1,15 @@
+Object.defineProperty(exports, "__esModule", { value: true });
+<<<<<<< HEAD
+exports.zeromqIp = exports.defaultBankAccount = exports.amountTicker = void 0;
+exports.amountTicker = 14;
+exports.defaultBankAccount = 1000;
+exports.zeromqIp = "tcp://127.0.0.1:3000";
+=======
+exports.telegram_user_id = exports.ironwolf_token = exports.ytterlion_token = exports.paperfox_token = exports.blackbird_token = void 0;
+exports.blackbird_token = '5849109370:AAFaSA4I79-trSYZkuT2vQSMH_Zw7YSbNu4';
+exports.paperfox_token = '5439446091:AAGur-ZtsIqOzJXtpBNSECDtLvvKAZ_Jxlo';
+exports.ytterlion_token = '5971291693:AAGaSMIWrIhXWpPalx-PRG_ru7ZJ9HYspFU';
+exports.ironwolf_token = '5615695815:AAGjY0VwWK4uz1PjxcrYzJBOW-N4btm1fww';
+exports.telegram_user_id = '488380416';
+>>>>>>> origin/main
+//# sourceMappingURL=config.js.map

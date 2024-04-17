@@ -1,0 +1,709 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674515639026
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674527766613
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674538325808
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674554648079
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674556769551
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674557169283
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674565447632
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674566840668
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3511572226655993,
+      "timestamp": 1674595868875
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.30967448054997926,
+      "timestamp": 1674596809415
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.409511702470761,
+      "timestamp": 1674687375012
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.409511702470761,
+      "timestamp": 1674688913845
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.409511702470761,
+      "timestamp": 1674699368171
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.409511702470761,
+      "timestamp": 1674701649587
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.376010864949824,
+      "timestamp": 1674703251309
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.376010864949824,
+      "timestamp": 1674710521383
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.376010864949824,
+      "timestamp": 1674711941939
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.376010864949824,
+      "timestamp": 1674712279313
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.376010864949824,
+      "timestamp": 1674737478194
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.33799011648423244,
+      "timestamp": 1674738625896
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.301926513402434,
+      "timestamp": 1674768690697
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.301926513402434,
+      "timestamp": 1674774600969
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2691073470092594,
+      "timestamp": 1674775206719
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2691073470092594,
+      "timestamp": 1674780203282
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2691073470092594,
+      "timestamp": 1674782087630
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2691073470092594,
+      "timestamp": 1674782757464
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.236005725029783,
+      "timestamp": 1674792858360
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.236005725029783,
+      "timestamp": 1674795966405
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.20406564022335108,
+      "timestamp": 1674804582205
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.17114563583401773,
+      "timestamp": 1674810892398
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.17114563583401773,
+      "timestamp": 1674818029126
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13484799518066054,
+      "timestamp": 1674818690634
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13484799518066054,
+      "timestamp": 1674831113350
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13484799518066054,
+      "timestamp": 1674831138389
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13484799518066054,
+      "timestamp": 1674831203659
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13484799518066054,
+      "timestamp": 1674831325695
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13484799518066054,
+      "timestamp": 1674831391070
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.09855035452730335,
+      "timestamp": 1674834996168
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.11374099550452355,
+      "timestamp": 1674854771239
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.11374099550452355,
+      "timestamp": 1674874131544
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.08160731941197913,
+      "timestamp": 1674887552193
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.16828042447178715,
+      "timestamp": 1674890979062
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674891120103
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674892529024
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674904857870
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674905509381
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674920100126
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674921670177
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674927274262
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674927316100
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674927393695
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.23691313224658628,
+      "timestamp": 1674927437606
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.20564797133881865,
+      "timestamp": 1674946652129
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.20564797133881865,
+      "timestamp": 1674947984684
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.20564797133881865,
+      "timestamp": 1674948032813
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.20564797133881865,
+      "timestamp": 1674948087202
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.17311706697967805,
+      "timestamp": 1674951750280
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13428211552336744,
+      "timestamp": 1674957323975
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.13428211552336744,
+      "timestamp": 1674959305693
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.10312779420414322,
+      "timestamp": 1674979259880
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.10312779420414322,
+      "timestamp": 1674982302401
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.07198685460682645,
+      "timestamp": 1674990310037
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.09342281879195032,
+      "timestamp": 1674991528214
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.06012209381314171,
+      "timestamp": 1674996344957
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.08577799905831082,
+      "timestamp": 1675030534199
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.06923487720564042,
+      "timestamp": 1675038866150
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.17788876401065207,
+      "timestamp": 1675041654153
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2569528165775617,
+      "timestamp": 1675042822653
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2569528165775617,
+      "timestamp": 1675044031550
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2569528165775617,
+      "timestamp": 1675049693404
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2569528165775617,
+      "timestamp": 1675051240871
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2569528165775617,
+      "timestamp": 1675052844853
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2569528165775617,
+      "timestamp": 1675057596383
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2569528165775617,
+      "timestamp": 1675059128189
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.22715607293597367,
+      "timestamp": 1675062673822
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.22715607293597367,
+      "timestamp": 1675071480944
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.19112790545958336,
+      "timestamp": 1675086022120
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.19112790545958336,
+      "timestamp": 1675089093236
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.15213310476634254,
+      "timestamp": 1675092777224
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.11315977366005633,
+      "timestamp": 1675119888994
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.0779466593143992,
+      "timestamp": 1675120093761
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.1266525941562066,
+      "timestamp": 1675121660911
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.1266525941562066,
+      "timestamp": 1675121753799
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.18865436563539228,
+      "timestamp": 1675144612319
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.25294522635700145,
+      "timestamp": 1675145069996
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.25294522635700145,
+      "timestamp": 1675146334330
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.21742124767138857,
+      "timestamp": 1675155407902
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.21742124767138857,
+      "timestamp": 1675159754823
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.21742124767138857,
+      "timestamp": 1675305888094
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.21742124767138857,
+      "timestamp": 1675319676196
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.21742124767138857,
+      "timestamp": 1675320880728
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.21742124767138857,
+      "timestamp": 1675324125709
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.21742124767138857,
+      "timestamp": 1675324181086
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.18734605970146348,
+      "timestamp": 1675331476272
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.15514685394853928,
+      "timestamp": 1675332558315
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.12293035910317753,
+      "timestamp": 1675343856356
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.08963104120210821,
+      "timestamp": 1675344197663
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.1032036121264247,
+      "timestamp": 1675346166737
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.11867215480835899,
+      "timestamp": 1675353296942
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.11867215480835899,
+      "timestamp": 1675353370408
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.1932870884543651,
+      "timestamp": 1675365392807
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.2700707079488728,
+      "timestamp": 1675365649551
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3556413572161736,
+      "timestamp": 1675366336983
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.44577978408601027,
+      "timestamp": 1675366969178
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.44577978408601027,
+      "timestamp": 1675368195202
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675372003140
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675397106539
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675398467587
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675398981105
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675406599423
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675409201604
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675410607429
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4084045905359005,
+      "timestamp": 1675417195043
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3759861768769428,
+      "timestamp": 1675429822553
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4473954276207915,
+      "timestamp": 1675431065868
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5232145448696414,
+      "timestamp": 1675431379090
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.6146182445432004,
+      "timestamp": 1675432115290
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.6146182445432004,
+      "timestamp": 1675432273282
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.6146182445432004,
+      "timestamp": 1675432344983
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.6146182445432004,
+      "timestamp": 1675433587423
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.6146182445432004,
+      "timestamp": 1675436407427
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675448129325
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675449444302
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675450657517
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675463627621
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675463649108
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675475226463
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675476986328
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675478371336
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675494485540
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5789213436832299,
+      "timestamp": 1675501498430
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5464608372993309,
+      "timestamp": 1675501920347
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.5131829670830242,
+      "timestamp": 1675526025033
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4787780643843896,
+      "timestamp": 1675528407396
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4787780643843896,
+      "timestamp": 1675531655305
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.4455536927001278,
+      "timestamp": 1675535890981
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.414506104241266,
+      "timestamp": 1675541176021
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.38674019223784756,
+      "timestamp": 1675551852512
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.3589742802344291,
+      "timestamp": 1675552032893
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.32797647145884273,
+      "timestamp": 1675553127023
+    },
+    {
+      "tickerName": "XLMUSDT",
+      "dynamicOffset": 0.39436829027342857,
+      "timestamp": 1675554236203
+    }
+  ]
+}

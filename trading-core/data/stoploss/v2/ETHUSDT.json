@@ -1,0 +1,1084 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3248894449334009,
+      "timestamp": 1674429478588
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3248894449334009,
+      "timestamp": 1674434399233
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3248894449334009,
+      "timestamp": 1674446057475
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3248894449334009,
+      "timestamp": 1674447407966
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.29595298253854063,
+      "timestamp": 1674459204085
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.26658134548367596,
+      "timestamp": 1674459368897
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23687109666796863,
+      "timestamp": 1674469000243
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23687109666796863,
+      "timestamp": 1674470054346
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23687109666796863,
+      "timestamp": 1674515622622
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.20079728409763295,
+      "timestamp": 1674516325049
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16679155064456985,
+      "timestamp": 1674519498981
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13744528616672083,
+      "timestamp": 1674537576288
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.108888039918689,
+      "timestamp": 1674546930165
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16663392736325003,
+      "timestamp": 1674551061191
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16663392736325003,
+      "timestamp": 1674551585341
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.24401289950435545,
+      "timestamp": 1674552982883
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.24401289950435545,
+      "timestamp": 1674553297355
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.24401289950435545,
+      "timestamp": 1674554467683
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.210204551726288,
+      "timestamp": 1674557994753
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.210204551726288,
+      "timestamp": 1674563637240
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.26823931713830756,
+      "timestamp": 1674567719934
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.26823931713830756,
+      "timestamp": 1674584168138
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.26823931713830756,
+      "timestamp": 1674592576048
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.26823931713830756,
+      "timestamp": 1674593894863
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3952569469591841,
+      "timestamp": 1674687373457
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3952569469591841,
+      "timestamp": 1674688755146
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3952569469591841,
+      "timestamp": 1674702345673
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.45220996072283093,
+      "timestamp": 1674714191172
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.45220996072283093,
+      "timestamp": 1674715880049
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.41829326859786253,
+      "timestamp": 1674739900824
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.38381040246683407,
+      "timestamp": 1674740063665
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3470096250739222,
+      "timestamp": 1674768718830
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.31450681473940595,
+      "timestamp": 1674775287750
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.31450681473940595,
+      "timestamp": 1674779066245
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.31450681473940595,
+      "timestamp": 1674779110354
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.31450681473940595,
+      "timestamp": 1674780616548
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.31450681473940595,
+      "timestamp": 1674780886270
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.31450681473940595,
+      "timestamp": 1674781031643
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2866794209945208,
+      "timestamp": 1674796757997
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.34851108873200504,
+      "timestamp": 1674798595295
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.34851108873200504,
+      "timestamp": 1674800765850
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.34851108873200504,
+      "timestamp": 1674802173566
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3174639624959129,
+      "timestamp": 1674810879535
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3174639624959129,
+      "timestamp": 1674812324385
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3174639624959129,
+      "timestamp": 1674817974886
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2853316154029347,
+      "timestamp": 1674818689293
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2853316154029347,
+      "timestamp": 1674823150228
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2853316154029347,
+      "timestamp": 1674823335186
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2427185706848691,
+      "timestamp": 1674830143528
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.20334586252314168,
+      "timestamp": 1674835086744
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1598875493683999,
+      "timestamp": 1674836215582
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1598875493683999,
+      "timestamp": 1674853939219
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.12629984937248123,
+      "timestamp": 1674869869701
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.12629984937248123,
+      "timestamp": 1674878557084
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.12629984937248123,
+      "timestamp": 1674879777303
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.12629984937248123,
+      "timestamp": 1674881143213
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.0961365688041158,
+      "timestamp": 1674883007712
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.0961365688041158,
+      "timestamp": 1674888298265
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10746699408867967,
+      "timestamp": 1674904031539
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10866330207258203,
+      "timestamp": 1674904094789
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10866330207258203,
+      "timestamp": 1674920023808
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10866330207258203,
+      "timestamp": 1674921391613
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10866330207258203,
+      "timestamp": 1674927569591
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10866330207258203,
+      "timestamp": 1674934940813
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.24448863536605828,
+      "timestamp": 1674958115370
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.24448863536605828,
+      "timestamp": 1674959350434
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674976056899
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674978733808
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674984538419
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674986779771
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674986879379
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674986928291
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674987468711
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21492721365036338,
+      "timestamp": 1674987507430
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1785707450461455,
+      "timestamp": 1674990498310
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1418358340516439,
+      "timestamp": 1674990590350
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1418358340516439,
+      "timestamp": 1675003351642
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1418358340516439,
+      "timestamp": 1675039163705
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1418358340516439,
+      "timestamp": 1675042821380
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1418358340516439,
+      "timestamp": 1675044768873
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1418358340516439,
+      "timestamp": 1675052888162
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.11060064645821119,
+      "timestamp": 1675054046458
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.11060064645821119,
+      "timestamp": 1675089303956
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.11060064645821119,
+      "timestamp": 1675092769469
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1772491550349612,
+      "timestamp": 1675108267872
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1772491550349612,
+      "timestamp": 1675114167045
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1772491550349612,
+      "timestamp": 1675119019900
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1772491550349612,
+      "timestamp": 1675119623884
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1772491550349612,
+      "timestamp": 1675119927564
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1772491550349612,
+      "timestamp": 1675119981425
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1772491550349612,
+      "timestamp": 1675136147838
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23743450290563345,
+      "timestamp": 1675144707002
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23743450290563345,
+      "timestamp": 1675145935698
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23743450290563345,
+      "timestamp": 1675154982330
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23743450290563345,
+      "timestamp": 1675155285461
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23743450290563345,
+      "timestamp": 1675167761160
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23743450290563345,
+      "timestamp": 1675167810988
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23743450290563345,
+      "timestamp": 1675306810192
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2054035996821494,
+      "timestamp": 1675311869601
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2702408162444573,
+      "timestamp": 1675319074096
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2702408162444573,
+      "timestamp": 1675320324093
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2702408162444573,
+      "timestamp": 1675332488305
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.23903323811362998,
+      "timestamp": 1675332922557
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675343719600
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675349138790
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675353277957
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675353351341
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675353392359
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675353436647
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675353932961
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675353969194
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.21001610361561354,
+      "timestamp": 1675354034638
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3025539755415353,
+      "timestamp": 1675365635130
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.40211133280042805,
+      "timestamp": 1675366488129
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.40211133280042805,
+      "timestamp": 1675367550100
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.36221176351420337,
+      "timestamp": 1675371991596
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.36221176351420337,
+      "timestamp": 1675408437747
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3302544219997906,
+      "timestamp": 1675430904472
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3302544219997906,
+      "timestamp": 1675431073000
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.29694433062539904,
+      "timestamp": 1675431191298
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.29694433062539904,
+      "timestamp": 1675431290116
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675431383068
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675431554219
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675431731372
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675431825394
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675431869370
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675431920441
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675431999119
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675432072480
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675432101053
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675432301594
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675433525985
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675448898493
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3666515481253232,
+      "timestamp": 1675450129692
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.33642918054502036,
+      "timestamp": 1675461161919
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675470625143
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675477042270
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675477315840
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675492976815
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675494848568
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675496053437
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675497019717
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675501379321
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30194694252095505,
+      "timestamp": 1675521897800
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2698828142644426,
+      "timestamp": 1675527861009
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.2349921692064366,
+      "timestamp": 1675536695630
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.20432917100699588,
+      "timestamp": 1675542707903
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.20432917100699588,
+      "timestamp": 1675551307789
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.20432917100699588,
+      "timestamp": 1675573113327
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.20432917100699588,
+      "timestamp": 1675574316439
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.20432917100699588,
+      "timestamp": 1675575864752
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.17392784962672844,
+      "timestamp": 1675577534399
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.17392784962672844,
+      "timestamp": 1675580282356
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.14599062761554712,
+      "timestamp": 1675584711528
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.14599062761554712,
+      "timestamp": 1675586473477
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.14599062761554712,
+      "timestamp": 1675590543822
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.14599062761554712,
+      "timestamp": 1675591820543
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.11017469977800881,
+      "timestamp": 1675608397474
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.11112951557770537,
+      "timestamp": 1675609531368
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.17740089009396273,
+      "timestamp": 1675635175697
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.24656062389655173,
+      "timestamp": 1675635794689
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.317758591071836,
+      "timestamp": 1675636133339
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675637024080
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675637611138
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675648204872
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675649619017
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675652336242
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675652359995
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675652444994
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675664752766
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675664792249
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675664854786
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675666083528
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3969340405638347,
+      "timestamp": 1675666210513
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.36574737885914876,
+      "timestamp": 1675676024593
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3357267704496867,
+      "timestamp": 1675680866850
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.3357267704496867,
+      "timestamp": 1675683154532
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.30134394828048283,
+      "timestamp": 1675684049460
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.27012582702143434,
+      "timestamp": 1675691043893
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.27012582702143434,
+      "timestamp": 1675692467116
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.234786106223731,
+      "timestamp": 1675693828534
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.234786106223731,
+      "timestamp": 1675698990903
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.19813011052470114,
+      "timestamp": 1675709888209
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16464623188393918,
+      "timestamp": 1675712590559
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16464623188393918,
+      "timestamp": 1675720002769
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.1365971183157179,
+      "timestamp": 1675752284393
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10761285701523324,
+      "timestamp": 1675754204534
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10761285701523324,
+      "timestamp": 1675756880506
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10761285701523324,
+      "timestamp": 1675758336869
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.0779180536058305,
+      "timestamp": 1675772144475
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.08853585885587585,
+      "timestamp": 1675777355021
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16038673665379,
+      "timestamp": 1675787666342
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16038673665379,
+      "timestamp": 1675788881760
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16038673665379,
+      "timestamp": 1675789975646
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16038673665379,
+      "timestamp": 1675800235155
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16038673665379,
+      "timestamp": 1675808796420
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.16038673665379,
+      "timestamp": 1675826265308
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13228050584255802,
+      "timestamp": 1675831812172
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10423286065123699,
+      "timestamp": 1675832090567
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10423286065123699,
+      "timestamp": 1675834106604
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10423286065123699,
+      "timestamp": 1675834146968
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10423286065123699,
+      "timestamp": 1675834341840
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.10423286065123699,
+      "timestamp": 1675834943642
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.07419291644820293,
+      "timestamp": 1675841866421
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.05936126443114763,
+      "timestamp": 1675843380246
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.08892918171434348,
+      "timestamp": 1675856501695
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.0932398156638132,
+      "timestamp": 1675858557157
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675878175584
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675893738927
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675894964713
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675909944240
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675911091048
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675911127535
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675925459101
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675925527516
+    },
+    {
+      "tickerName": "ETHUSDT",
+      "dynamicOffset": 0.13946094370980613,
+      "timestamp": 1675925948793
+    }
+  ]
+}

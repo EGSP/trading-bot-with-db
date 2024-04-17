@@ -1,0 +1,744 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5509641873278243,
+      "timestamp": 1674434480061
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4692574238235109,
+      "timestamp": 1674435489937
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4140088050389804,
+      "timestamp": 1674465437162
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5243029226860394,
+      "timestamp": 1674466247665
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5243029226860394,
+      "timestamp": 1674466864294
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.459875863321105,
+      "timestamp": 1674521533080
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.459875863321105,
+      "timestamp": 1674522967623
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4138988518268511,
+      "timestamp": 1674549537377
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4138988518268511,
+      "timestamp": 1674552277181
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4138988518268511,
+      "timestamp": 1674553631150
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3678795237090426,
+      "timestamp": 1674562216717
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.32190251221478866,
+      "timestamp": 1674562750532
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.26700772721936317,
+      "timestamp": 1674564507243
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.26700772721936317,
+      "timestamp": 1674585471247
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.379367277781161,
+      "timestamp": 1674586404234
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.379367277781161,
+      "timestamp": 1674587469078
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.322656502733902,
+      "timestamp": 1674593378971
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4171298140234607,
+      "timestamp": 1674597199905
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5739925591215,
+      "timestamp": 1674687374421
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7310092421440714,
+      "timestamp": 1674687674219
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7310092421440714,
+      "timestamp": 1674688903387
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7310092421440714,
+      "timestamp": 1674701963240
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7310092421440714,
+      "timestamp": 1674715639492
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7310092421440714,
+      "timestamp": 1674719086265
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6842146703144046,
+      "timestamp": 1674738555906
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6282445210606733,
+      "timestamp": 1674740551405
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.554238970644392,
+      "timestamp": 1674742203968
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.554238970644392,
+      "timestamp": 1674765271757
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5162883065077696,
+      "timestamp": 1674775376527
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4783376423711472,
+      "timestamp": 1674775581885
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4783376423711472,
+      "timestamp": 1674800074783
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4783376423711472,
+      "timestamp": 1674801149779
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.42943788686992573,
+      "timestamp": 1674804117107
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.42943788686992573,
+      "timestamp": 1674831701761
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.42943788686992573,
+      "timestamp": 1674831977785
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.42943788686992573,
+      "timestamp": 1674832371068
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.42943788686992573,
+      "timestamp": 1674832400011
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.42943788686992573,
+      "timestamp": 1674832454397
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.42943788686992573,
+      "timestamp": 1674832518151
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.37523734486450566,
+      "timestamp": 1674869994497
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.37523734486450566,
+      "timestamp": 1674885450413
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.31889931669549154,
+      "timestamp": 1674919646328
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.31889931669549154,
+      "timestamp": 1674921507566
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3937356122988592,
+      "timestamp": 1674933110470
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3473319000018744,
+      "timestamp": 1674950555726
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3473319000018744,
+      "timestamp": 1674954150132
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3473319000018744,
+      "timestamp": 1674954224151
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3473319000018744,
+      "timestamp": 1674959317837
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3473319000018744,
+      "timestamp": 1674964460754
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.30097121386372055,
+      "timestamp": 1674981924944
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.30097121386372055,
+      "timestamp": 1674983542687
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.2547818374203035,
+      "timestamp": 1674990486351
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.20854975235326595,
+      "timestamp": 1674990826020
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.17161531098669158,
+      "timestamp": 1674995070277
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.1253404382425926,
+      "timestamp": 1674996344200
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.1367989056087522,
+      "timestamp": 1675034188831
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.10033582447839666,
+      "timestamp": 1675034465405
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.09174260089855427,
+      "timestamp": 1675049418013
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.14499758337360735,
+      "timestamp": 1675092771946
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.10065425264217422,
+      "timestamp": 1675135245078
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.2008839377610948,
+      "timestamp": 1675144695322
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.28136683514540073,
+      "timestamp": 1675144826744
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.23083626414994843,
+      "timestamp": 1675145961800
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.18086125165619638,
+      "timestamp": 1675160415238
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.18086125165619638,
+      "timestamp": 1675162978556
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.1865837405597484,
+      "timestamp": 1675306830323
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.27535426874438923,
+      "timestamp": 1675318413310
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.23811032088591622,
+      "timestamp": 1675336688103
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.23811032088591622,
+      "timestamp": 1675338411598
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.34911864651033814,
+      "timestamp": 1675347915006
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.46012697213476006,
+      "timestamp": 1675347976655
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.395759156042807,
+      "timestamp": 1675349047588
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.395759156042807,
+      "timestamp": 1675355058546
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3228994110519144,
+      "timestamp": 1675355904517
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5038948861650367,
+      "timestamp": 1675366576392
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6853830894318246,
+      "timestamp": 1675366953128
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6853830894318246,
+      "timestamp": 1675368383073
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6853830894318246,
+      "timestamp": 1675387313314
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6390653497375206,
+      "timestamp": 1675398435041
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6020283127004835,
+      "timestamp": 1675402110805
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5550137381823819,
+      "timestamp": 1675408304485
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5550137381823819,
+      "timestamp": 1675409825650
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5550137381823819,
+      "timestamp": 1675427936775
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7022078504178926,
+      "timestamp": 1675431073284
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.8496732882059111,
+      "timestamp": 1675431394560
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.8496732882059111,
+      "timestamp": 1675431926557
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.8496732882059111,
+      "timestamp": 1675431973834
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.777405898865351,
+      "timestamp": 1675436519317
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.777405898865351,
+      "timestamp": 1675437579599
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.777405898865351,
+      "timestamp": 1675437610561
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.777405898865351,
+      "timestamp": 1675437761148
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.777405898865351,
+      "timestamp": 1675437866144
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.777405898865351,
+      "timestamp": 1675437943137
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.777405898865351,
+      "timestamp": 1675448895333
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7320955227892285,
+      "timestamp": 1675470474471
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.7320955227892285,
+      "timestamp": 1675493251781
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6871112672786561,
+      "timestamp": 1675528104261
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6871112672786561,
+      "timestamp": 1675536513901
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6871112672786561,
+      "timestamp": 1675553908476
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6871112672786561,
+      "timestamp": 1675553964345
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6871112672786561,
+      "timestamp": 1675554014151
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6415531807182906,
+      "timestamp": 1675572173405
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.6050235003529938,
+      "timestamp": 1675586399573
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.568493819987697,
+      "timestamp": 1675586560189
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5202079677424037,
+      "timestamp": 1675632308413
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5202079677424037,
+      "timestamp": 1675636863023
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.48182025181150157,
+      "timestamp": 1675652258490
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.44339566007278874,
+      "timestamp": 1675653000917
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.40493412161125025,
+      "timestamp": 1675659180314
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.3663984761391886,
+      "timestamp": 1675660171817
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.4629701806297751,
+      "timestamp": 1675661253006
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.55963523621218,
+      "timestamp": 1675661471276
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.55963523621218,
+      "timestamp": 1675661659736
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5116275549831822,
+      "timestamp": 1675678367424
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5116275549831822,
+      "timestamp": 1675681737519
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5116275549831822,
+      "timestamp": 1675681934729
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5116275549831822,
+      "timestamp": 1675692473590
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5116275549831822,
+      "timestamp": 1675693706426
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.455552788628042,
+      "timestamp": 1675714763320
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.455552788628042,
+      "timestamp": 1675719532266
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.455552788628042,
+      "timestamp": 1675719548092
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.455552788628042,
+      "timestamp": 1675744572492
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.455552788628042,
+      "timestamp": 1675756019295
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.455552788628042,
+      "timestamp": 1675757481339
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5496704356868636,
+      "timestamp": 1675792032218
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5496704356868636,
+      "timestamp": 1675799929872
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.47518253996991755,
+      "timestamp": 1675800566408
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.47518253996991755,
+      "timestamp": 1675802422514
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.429624453409552,
+      "timestamp": 1675826471618
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.38439604997219234,
+      "timestamp": 1675831965811
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.38439604997219234,
+      "timestamp": 1675836286544
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.38439604997219234,
+      "timestamp": 1675850657138
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.38439604997219234,
+      "timestamp": 1675851258703
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.5932733345674928,
+      "timestamp": 1675868811466
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.8025148341315731,
+      "timestamp": 1675868950956
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.012305043921783,
+      "timestamp": 1675869135574
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.2053721786299905,
+      "timestamp": 1675876642815
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.2053721786299905,
+      "timestamp": 1675878814326
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.2053721786299905,
+      "timestamp": 1675896908480
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.144210099119288,
+      "timestamp": 1675897969267
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.0816262815064126,
+      "timestamp": 1675902448259
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.0286695295205344,
+      "timestamp": 1675909075718
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.0286695295205344,
+      "timestamp": 1675910507344
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 1.0286695295205344,
+      "timestamp": 1675922691977
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.9634622635680435,
+      "timestamp": 1675926103186
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.9634622635680435,
+      "timestamp": 1675931396911
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.9634622635680435,
+      "timestamp": 1676508284785
+    },
+    {
+      "tickerName": "CRVUSDT",
+      "dynamicOffset": 0.9634622635680435,
+      "timestamp": 1676520328339
+    }
+  ]
+}

@@ -1,0 +1,1029 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.6246901818231138,
+      "timestamp": 1674432240333
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.7286634458409394,
+      "timestamp": 1674432310318
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8326367098587651,
+      "timestamp": 1674432351299
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.9365328137548675,
+      "timestamp": 1674432521059
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.0403518719676983,
+      "timestamp": 1674432693300
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.158607599979524,
+      "timestamp": 1674433245337
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.158607599979524,
+      "timestamp": 1674434460540
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.158607599979524,
+      "timestamp": 1674435667632
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.158607599979524,
+      "timestamp": 1674445483874
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.114064170135426,
+      "timestamp": 1674447246882
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.0770682396877742,
+      "timestamp": 1674451111097
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 1.0326237952433297,
+      "timestamp": 1674459551482
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.987881065936842,
+      "timestamp": 1674515071317
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.987881065936842,
+      "timestamp": 1674516708275
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.987881065936842,
+      "timestamp": 1674517564296
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.987881065936842,
+      "timestamp": 1674526867174
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.9436984444346328,
+      "timestamp": 1674537352006
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.9067844540322711,
+      "timestamp": 1674544930596
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8625692734869506,
+      "timestamp": 1674551259098
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8625692734869506,
+      "timestamp": 1674552821553
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8625692734869506,
+      "timestamp": 1674554109813
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8625692734869506,
+      "timestamp": 1674554629625
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8625692734869506,
+      "timestamp": 1674566892473
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8152133145287817,
+      "timestamp": 1674680871415
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8152133145287817,
+      "timestamp": 1674688359971
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.8152133145287817,
+      "timestamp": 1674689605036
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.7690594683749354,
+      "timestamp": 1674701751967
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.7156447411715771,
+      "timestamp": 1674715047340
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.7156447411715771,
+      "timestamp": 1674720096270
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.6698432144540197,
+      "timestamp": 1674738396315
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.6160177627046917,
+      "timestamp": 1674768354283
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5700407512104387,
+      "timestamp": 1674775183921
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5240989441660283,
+      "timestamp": 1674778826265
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.47039737147711463,
+      "timestamp": 1674779484115
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.47039737147711463,
+      "timestamp": 1674782277299
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.47039737147711463,
+      "timestamp": 1674783142672
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.47039737147711463,
+      "timestamp": 1674791686368
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.42459584475955736,
+      "timestamp": 1674807883972
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.37854826225763866,
+      "timestamp": 1674811035601
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3401899960512703,
+      "timestamp": 1674817374182
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4470194504579871,
+      "timestamp": 1674833484906
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4470194504579871,
+      "timestamp": 1674833662844
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3945260121377779,
+      "timestamp": 1674853941637
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3423456170576445,
+      "timestamp": 1674869969387
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.29753605768497826,
+      "timestamp": 1674871442736
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.29753605768497826,
+      "timestamp": 1674880054598
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.25289320054212105,
+      "timestamp": 1674883772039
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.25289320054212105,
+      "timestamp": 1674887108015
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.25289320054212105,
+      "timestamp": 1674887170700
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.22195739234413187,
+      "timestamp": 1674949514793
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1910454912622153,
+      "timestamp": 1674950547066
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.137261395987533,
+      "timestamp": 1674958249378
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.08446475265158514,
+      "timestamp": 1674958653533
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1386748844375964,
+      "timestamp": 1674961970513
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.10034602280478772,
+      "timestamp": 1674972013116
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.08431173827265917,
+      "timestamp": 1674972483921
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.07665758770861625,
+      "timestamp": 1674973947394
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.13688212927756668,
+      "timestamp": 1674995955560
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.13688212927756668,
+      "timestamp": 1675011200015
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.22596898896576276,
+      "timestamp": 1675041612246
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3153211855405953,
+      "timestamp": 1675042524904
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3153211855405953,
+      "timestamp": 1675043736314
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3153211855405953,
+      "timestamp": 1675044114491
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3153211855405953,
+      "timestamp": 1675044201893
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3153211855405953,
+      "timestamp": 1675089941869
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2750473232772051,
+      "timestamp": 1675119122975
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2267381445332437,
+      "timestamp": 1675119849717
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.18649669584108985,
+      "timestamp": 1675120244359
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.18649669584108985,
+      "timestamp": 1675121948813
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1385733731573855,
+      "timestamp": 1675123635388
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.23495891532606028,
+      "timestamp": 1675144581587
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.31531247097089943,
+      "timestamp": 1675144700043
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.39573064547833636,
+      "timestamp": 1675144807223
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.47621354286264406,
+      "timestamp": 1675145051956
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.47621354286264406,
+      "timestamp": 1675146309959
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.42794322910560456,
+      "timestamp": 1675155657540
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3628437716010829,
+      "timestamp": 1675324965610
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.30474645860180904,
+      "timestamp": 1675330650776
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2544048548621478,
+      "timestamp": 1675344333022
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2544048548621478,
+      "timestamp": 1675346173800
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3820191760248578,
+      "timestamp": 1675353225048
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3820191760248578,
+      "timestamp": 1675353321434
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3820191760248578,
+      "timestamp": 1675353407833
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3820191760248578,
+      "timestamp": 1675353453361
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3820191760248578,
+      "timestamp": 1675367796739
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3820191760248578,
+      "timestamp": 1675374634700
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3820191760248578,
+      "timestamp": 1675376362918
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3019658071122508,
+      "timestamp": 1675382888256
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3019658071122508,
+      "timestamp": 1675396473727
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.23569675475969937,
+      "timestamp": 1675397081041
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3677971510608884,
+      "timestamp": 1675397840045
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675398850916
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675400149082
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675400485339
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675408738590
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675409872194
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675409887720
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675413405313
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.512201483190851,
+      "timestamp": 1675414035146
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4529324677150532,
+      "timestamp": 1675426733721
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.37434700602546567,
+      "timestamp": 1675431509233
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.37434700602546567,
+      "timestamp": 1675433324560
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2850043129814324,
+      "timestamp": 1675441907736
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2280242560013747,
+      "timestamp": 1675455694210
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1711522180866834,
+      "timestamp": 1675456617721
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1711522180866834,
+      "timestamp": 1675463220343
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1711522180866834,
+      "timestamp": 1675464502449
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1266936598142152,
+      "timestamp": 1675469515831
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.09544814144597058,
+      "timestamp": 1675472138225
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1946282796809391,
+      "timestamp": 1675498066456
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.27229818259356053,
+      "timestamp": 1675498631835
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.27229818259356053,
+      "timestamp": 1675499841249
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.22685839031832444,
+      "timestamp": 1675512589102
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.18130030375795922,
+      "timestamp": 1675513596280
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.18130030375795922,
+      "timestamp": 1675521111602
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.18130030375795922,
+      "timestamp": 1675525416344
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.18130030375795922,
+      "timestamp": 1675525645877
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2834062386654258,
+      "timestamp": 1675533444224
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2834062386654258,
+      "timestamp": 1675534470699
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2834062386654258,
+      "timestamp": 1675534542829
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.24459640684136366,
+      "timestamp": 1675552494892
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19867971284333075,
+      "timestamp": 1675560216534
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19867971284333075,
+      "timestamp": 1675563950124
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19867971284333075,
+      "timestamp": 1675565152850
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.15923198108790665,
+      "timestamp": 1675570281129
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.12634806132467158,
+      "timestamp": 1675590164039
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.12634806132467158,
+      "timestamp": 1675592789608
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.12634806132467158,
+      "timestamp": 1675594220411
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.12634806132467158,
+      "timestamp": 1675636330934
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.22340178749451417,
+      "timestamp": 1675636892372
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.22340178749451417,
+      "timestamp": 1675637628048
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.17443361680546124,
+      "timestamp": 1675639631599
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.17443361680546124,
+      "timestamp": 1675639655125
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.17443361680546124,
+      "timestamp": 1675639763811
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.17443361680546124,
+      "timestamp": 1675639816720
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.12536246363336243,
+      "timestamp": 1675640496459
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1038849672950696,
+      "timestamp": 1675649583541
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.24388547194763566,
+      "timestamp": 1675652478522
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19495153276553223,
+      "timestamp": 1675653247312
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19495153276553223,
+      "timestamp": 1675669588160
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19495153276553223,
+      "timestamp": 1675669975147
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19495153276553223,
+      "timestamp": 1675669986256
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.19495153276553223,
+      "timestamp": 1675681150134
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675682633378
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675682709351
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675682766941
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675703206818
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675705269263
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675719259679
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675719305359
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675719364127
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2797571864757797,
+      "timestamp": 1675719434572
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.22522412580774964,
+      "timestamp": 1675732636092
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.17745885798106853,
+      "timestamp": 1675739810305
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.17745885798106853,
+      "timestamp": 1675740716198
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.17745885798106853,
+      "timestamp": 1675740729767
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.1292660868967319,
+      "timestamp": 1675755909648
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.21202470758638717,
+      "timestamp": 1675757544362
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3086097369068441,
+      "timestamp": 1675757683454
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.26008287382192286,
+      "timestamp": 1675758863432
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.21198943514105636,
+      "timestamp": 1675767992638
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.21198943514105636,
+      "timestamp": 1675776256186
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.21198943514105636,
+      "timestamp": 1675776307429
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.21198943514105636,
+      "timestamp": 1675776428433
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.15704438019600137,
+      "timestamp": 1675786212704
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.11000339855594515,
+      "timestamp": 1675787447745
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.20297699594046023,
+      "timestamp": 1675798671342
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.20297699594046023,
+      "timestamp": 1675799072140
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.15031076815902503,
+      "timestamp": 1675826295980
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.15031076815902503,
+      "timestamp": 1675833997916
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.2424463390705077,
+      "timestamp": 1675834851714
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3346425853661958,
+      "timestamp": 1675834921935
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.28155698483533975,
+      "timestamp": 1675836355432
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.388437412357047,
+      "timestamp": 1675856788523
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.388437412357047,
+      "timestamp": 1675858247089
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.388437412357047,
+      "timestamp": 1675859460609
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.388437412357047,
+      "timestamp": 1675878596067
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.388437412357047,
+      "timestamp": 1675894005573
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.388437412357047,
+      "timestamp": 1675910090098
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5002473354877249,
+      "timestamp": 1675911129286
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.6261654886881433,
+      "timestamp": 1675911350242
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.6261654886881433,
+      "timestamp": 1676088771808
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.6261654886881433,
+      "timestamp": 1676088772697
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.6261654886881433,
+      "timestamp": 1676090055053
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5872095089452518,
+      "timestamp": 1676102114540
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676148074493
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676152355066
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676152560753
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676152636650
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676152688388
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676152741851
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676153342063
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.5484347900619628,
+      "timestamp": 1676153401581
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.502351840753207,
+      "timestamp": 1676160633049
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4560555444569107,
+      "timestamp": 1676162934851
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4176087932073921,
+      "timestamp": 1676173298461
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4176087932073921,
+      "timestamp": 1676181949211
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4176087932073921,
+      "timestamp": 1676183150841
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.3715965232687417,
+      "timestamp": 1676193202022
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4636210631460424,
+      "timestamp": 1676206353053
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4636210631460424,
+      "timestamp": 1676206373629
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4636210631460424,
+      "timestamp": 1676206464861
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4636210631460424,
+      "timestamp": 1676206513956
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4636210631460424,
+      "timestamp": 1676206576942
+    },
+    {
+      "tickerName": "SUSHIUSDT",
+      "dynamicOffset": 0.4636210631460424,
+      "timestamp": 1677978625206
+    }
+  ]
+}

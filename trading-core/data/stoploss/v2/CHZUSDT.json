@@ -1,0 +1,964 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4775724624370771,
+      "timestamp": 1674432096506
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4775724624370771,
+      "timestamp": 1674433143606
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4775724624370771,
+      "timestamp": 1674445973570
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.43373204156903555,
+      "timestamp": 1674447197164
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.39658845612058263,
+      "timestamp": 1674452719764
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.35718965267683445,
+      "timestamp": 1674454236709
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.428475340983802,
+      "timestamp": 1674458771173
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.428475340983802,
+      "timestamp": 1674460092275
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674461189695
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674469266272
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674513200144
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674515623093
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674521175050
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674521529178
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674549713968
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674554412765
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.384532174146246,
+      "timestamp": 1674567259311
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3379918962734114,
+      "timestamp": 1674593256730
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3379918962734114,
+      "timestamp": 1674596075857
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.444195130644639,
+      "timestamp": 1674596907507
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.444195130644639,
+      "timestamp": 1674597030544
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3998787114113118,
+      "timestamp": 1674680862029
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5178985999480805,
+      "timestamp": 1674687368385
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5178985999480805,
+      "timestamp": 1674689189088
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4795802686029623,
+      "timestamp": 1674706562358
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4795802686029623,
+      "timestamp": 1674710177069
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.43538857808968673,
+      "timestamp": 1674711016095
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5178866784623777,
+      "timestamp": 1674714440232
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.46699609322064695,
+      "timestamp": 1674715542042
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.46699609322064695,
+      "timestamp": 1674720077847
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.46699609322064695,
+      "timestamp": 1674737804682
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.46699609322064695,
+      "timestamp": 1674738362910
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4280383954000747,
+      "timestamp": 1674768169081
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3935087697159107,
+      "timestamp": 1674775183290
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3935087697159107,
+      "timestamp": 1674779093576
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3935087697159107,
+      "timestamp": 1674779114604
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3935087697159107,
+      "timestamp": 1674779178785
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3935087697159107,
+      "timestamp": 1674780428089
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3935087697159107,
+      "timestamp": 1674780870190
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3935087697159107,
+      "timestamp": 1674790772195
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3580268063806055,
+      "timestamp": 1674804175190
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.32044805679507626,
+      "timestamp": 1674810854814
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.32044805679507626,
+      "timestamp": 1674818032914
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.32044805679507626,
+      "timestamp": 1674819244151
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.28150467165969273,
+      "timestamp": 1674826357736
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.28150467165969273,
+      "timestamp": 1674832355539
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.28150467165969273,
+      "timestamp": 1674832528240
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.28150467165969273,
+      "timestamp": 1674836120816
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.23322376456386085,
+      "timestamp": 1674854176292
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.23322376456386085,
+      "timestamp": 1674873748813
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.23322376456386085,
+      "timestamp": 1674875931861
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.23322376456386085,
+      "timestamp": 1674877313858
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.32329131522685695,
+      "timestamp": 1674890492643
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4134555429273101,
+      "timestamp": 1674890802889
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4134555429273101,
+      "timestamp": 1674892610852
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4134555429273101,
+      "timestamp": 1674896852665
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674901877719
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674904158237
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674904169493
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674904212172
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674904271933
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674904332136
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674920365679
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674921862700
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674924683171
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674924758225
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674924942352
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674934944506
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674950599963
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674950697234
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674959371037
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674962047935
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674977964018
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674984990485
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674985041440
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3762009219214359,
+      "timestamp": 1674987023077
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3435934077009382,
+      "timestamp": 1674990316898
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.31098589348044053,
+      "timestamp": 1674990328224
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2783760163109774,
+      "timestamp": 1674990505288
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.24576377585005732,
+      "timestamp": 1674990590999
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.21242077787962996,
+      "timestamp": 1674990689980
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.17844037083773295,
+      "timestamp": 1675002465168
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.17844037083773295,
+      "timestamp": 1675011198926
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.17844037083773295,
+      "timestamp": 1675042857812
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.17856517628934343,
+      "timestamp": 1675044066288
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.292726058569743,
+      "timestamp": 1675044669108
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.292726058569743,
+      "timestamp": 1675045685899
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.292726058569743,
+      "timestamp": 1675052644518
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.292726058569743,
+      "timestamp": 1675053852686
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.292726058569743,
+      "timestamp": 1675092770507
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.292726058569743,
+      "timestamp": 1675108273368
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.24959815027329424,
+      "timestamp": 1675128750873
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.24959815027329424,
+      "timestamp": 1675130535160
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.24959815027329424,
+      "timestamp": 1675130985319
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.24959815027329424,
+      "timestamp": 1675131223114
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3178912033521694,
+      "timestamp": 1675144615524
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2758984566447829,
+      "timestamp": 1675146214142
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2758984566447829,
+      "timestamp": 1675156095502
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2758984566447829,
+      "timestamp": 1675160025452
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2758984566447829,
+      "timestamp": 1675160062517
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3642112548785283,
+      "timestamp": 1675318481318
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.45553545579177057,
+      "timestamp": 1675319045132
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.405233644926579,
+      "timestamp": 1675320421088
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.36376656835547744,
+      "timestamp": 1675324728524
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.36376656835547744,
+      "timestamp": 1675336992514
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.36376656835547744,
+      "timestamp": 1675342468340
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4557269018832548,
+      "timestamp": 1675347914520
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5516633097500411,
+      "timestamp": 1675348404356
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.49909820069450683,
+      "timestamp": 1675349116067
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.44912943117545634,
+      "timestamp": 1675354971952
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.44912943117545634,
+      "timestamp": 1675365212836
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.44912943117545634,
+      "timestamp": 1675365255544
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.44912943117545634,
+      "timestamp": 1675365327272
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4024549854345004,
+      "timestamp": 1675372010016
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3496213409697052,
+      "timestamp": 1675384399725
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3496213409697052,
+      "timestamp": 1675387278969
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3496213409697052,
+      "timestamp": 1675388629559
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.44451883043537627,
+      "timestamp": 1675392194452
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5372415053440616,
+      "timestamp": 1675399341413
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5372415053440616,
+      "timestamp": 1675400547511
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4996888075724243,
+      "timestamp": 1675408457687
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4996888075724243,
+      "timestamp": 1675410803776
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4996888075724243,
+      "timestamp": 1675410877224
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4996888075724243,
+      "timestamp": 1675416832037
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4996888075724243,
+      "timestamp": 1675418092616
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.45580742884781467,
+      "timestamp": 1675431136218
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4054367431679886,
+      "timestamp": 1675431658907
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4054367431679886,
+      "timestamp": 1675433037371
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4054367431679886,
+      "timestamp": 1675448948226
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3568366375155853,
+      "timestamp": 1675450147906
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3568366375155853,
+      "timestamp": 1675475330144
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3568366375155853,
+      "timestamp": 1675477040483
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3568366375155853,
+      "timestamp": 1675502302400
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.31920535565728453,
+      "timestamp": 1675526273405
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675528246851
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675535783738
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675535817927
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675547203728
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675548467929
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675570537617
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675572805929
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2779965644484941,
+      "timestamp": 1675580333393
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3479914177681044,
+      "timestamp": 1675597533725
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3479914177681044,
+      "timestamp": 1675598777646
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3479914177681044,
+      "timestamp": 1675600566752
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3479914177681044,
+      "timestamp": 1675637676916
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3479914177681044,
+      "timestamp": 1675638076319
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3479914177681044,
+      "timestamp": 1675649873971
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.42398525223059175,
+      "timestamp": 1675652507649
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.42398525223059175,
+      "timestamp": 1675653773597
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.39171909226214047,
+      "timestamp": 1675659167351
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.39171909226214047,
+      "timestamp": 1675660634356
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4679753420373288,
+      "timestamp": 1675661177426
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4679753420373288,
+      "timestamp": 1675662453028
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4679753420373288,
+      "timestamp": 1675662511030
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4679753420373288,
+      "timestamp": 1675666945804
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4679753420373288,
+      "timestamp": 1675668937232
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4679753420373288,
+      "timestamp": 1675668970122
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.432777985430642,
+      "timestamp": 1675676044400
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3975096945032306,
+      "timestamp": 1675680891037
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3975096945032306,
+      "timestamp": 1675682481912
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3975096945032306,
+      "timestamp": 1675682525887
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3630195026515378,
+      "timestamp": 1675690703498
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.32780696986435875,
+      "timestamp": 1675691068183
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.32780696986435875,
+      "timestamp": 1675692570001
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.28734454211869365,
+      "timestamp": 1675693409276
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.28734454211869365,
+      "timestamp": 1675699008030
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.24720980406953022,
+      "timestamp": 1675709452190
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.21072520271745307,
+      "timestamp": 1675714679787
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.21072520271745307,
+      "timestamp": 1675734713573
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.17689156344163706,
+      "timestamp": 1675754215970
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.14081912999527674,
+      "timestamp": 1675758249994
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.3229061553985853,
+      "timestamp": 1675769878044
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.2577465809304996,
+      "timestamp": 1675777327641
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4053752947153316,
+      "timestamp": 1675808273621
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4053752947153316,
+      "timestamp": 1675809478613
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4053752947153316,
+      "timestamp": 1675810713564
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4053752947153316,
+      "timestamp": 1675811349939
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4053752947153316,
+      "timestamp": 1675816112290
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5128102843380873,
+      "timestamp": 1675820845305
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5128102843380873,
+      "timestamp": 1675832441079
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.5128102843380873,
+      "timestamp": 1675838019626
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.44965049005856034,
+      "timestamp": 1675867817217
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.39838304488624443,
+      "timestamp": 1675889717952
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.39838304488624443,
+      "timestamp": 1675892044118
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.39838304488624443,
+      "timestamp": 1675893763954
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4934200037035621,
+      "timestamp": 1675925767416
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4934200037035621,
+      "timestamp": 1675927007525
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4934200037035621,
+      "timestamp": 1675928326528
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4934200037035621,
+      "timestamp": 1675928345920
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4934200037035621,
+      "timestamp": 1676508156888
+    },
+    {
+      "tickerName": "CHZUSDT",
+      "dynamicOffset": 0.4934200037035621,
+      "timestamp": 1676520327744
+    }
+  ]
+}

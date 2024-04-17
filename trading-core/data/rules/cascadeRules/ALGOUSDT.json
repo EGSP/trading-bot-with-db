@@ -1,0 +1,69 @@
+{
+  "cascadeLossProtectionRules": [
+    {
+      "timestamp": 1674598579573,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674636329751,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674638544738,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674639745907,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674641823430,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674641922090,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674641935194,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674648986939,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674650338894,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674651540721,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674652435850,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674664592596,
+      "restricted": false,
+      "side": "SHORT"
+    },
+    {
+      "timestamp": 1674671174056,
+      "restricted": false,
+      "side": "SHORT"
+    }
+  ]
+}

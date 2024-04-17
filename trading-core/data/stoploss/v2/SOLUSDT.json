@@ -1,0 +1,694 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.36467930322653874,
+      "timestamp": 1674518642239
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4464788942285839,
+      "timestamp": 1674518843426
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3970695230562532,
+      "timestamp": 1674520031093
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3970695230562532,
+      "timestamp": 1674525405608
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3970695230562532,
+      "timestamp": 1674527824528
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.35107941296488365,
+      "timestamp": 1674538380928
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.31128569062761197,
+      "timestamp": 1674548088989
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.388291384996063,
+      "timestamp": 1674551074931
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.47271039550785265,
+      "timestamp": 1674551618240
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.47271039550785265,
+      "timestamp": 1674552847228
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.47271039550785265,
+      "timestamp": 1674553395795
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.47271039550785265,
+      "timestamp": 1674570168451
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.43101818214182086,
+      "timestamp": 1674584596398
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.43101818214182086,
+      "timestamp": 1674592595582
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.5177753241136871,
+      "timestamp": 1674592986287
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4674958784341865,
+      "timestamp": 1674594099394
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4096399270838622,
+      "timestamp": 1674680863109
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4096399270838622,
+      "timestamp": 1674688570677
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3628339277757776,
+      "timestamp": 1674701420132
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3628339277757776,
+      "timestamp": 1674707296269
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3628339277757776,
+      "timestamp": 1674714216413
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3628339277757776,
+      "timestamp": 1674714279268
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3628339277757776,
+      "timestamp": 1674714337724
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3628339277757776,
+      "timestamp": 1674737517985
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3628339277757776,
+      "timestamp": 1674738360020
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.43484565061438096,
+      "timestamp": 1674798872544
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.43484565061438096,
+      "timestamp": 1674800638951
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.43484565061438096,
+      "timestamp": 1674801132066
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3952249972950985,
+      "timestamp": 1674805050230
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3952249972950985,
+      "timestamp": 1674810238629
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3952249972950985,
+      "timestamp": 1674810537188
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3952249972950985,
+      "timestamp": 1674810571378
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3952249972950985,
+      "timestamp": 1674818071876
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.35666512471032874,
+      "timestamp": 1674822372370
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3080950120779125,
+      "timestamp": 1674827096040
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.2545503106844859,
+      "timestamp": 1674834984811
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.2545503106844859,
+      "timestamp": 1674873723085
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.2545503106844859,
+      "timestamp": 1674879261858
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.2545503106844859,
+      "timestamp": 1674880469942
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.20826358092459754,
+      "timestamp": 1674919876142
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.20826358092459754,
+      "timestamp": 1674921343229
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.1656570646338706,
+      "timestamp": 1674927169073
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.1656570646338706,
+      "timestamp": 1674931163783
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.12820543964947548,
+      "timestamp": 1674950739986
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.12820543964947548,
+      "timestamp": 1674952427477
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.12820543964947548,
+      "timestamp": 1674952449746
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.12820543964947548,
+      "timestamp": 1674952522037
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.306293616450841,
+      "timestamp": 1674954252935
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.306293616450841,
+      "timestamp": 1674954614952
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.306293616450841,
+      "timestamp": 1674959330105
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.306293616450841,
+      "timestamp": 1674961318400
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.27161153552598566,
+      "timestamp": 1674979819749
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.2353183858579851,
+      "timestamp": 1674980614539
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3062608482213578,
+      "timestamp": 1674985121428
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3062608482213578,
+      "timestamp": 1674985434802
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3062608482213578,
+      "timestamp": 1674985477520
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3062608482213578,
+      "timestamp": 1674985524687
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3062608482213578,
+      "timestamp": 1674985634728
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3062608482213578,
+      "timestamp": 1674987380966
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.26740181556323556,
+      "timestamp": 1674990336193
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.22854438924766315,
+      "timestamp": 1674990378395
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.1892727743575208,
+      "timestamp": 1674990445554
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.14494143867079534,
+      "timestamp": 1675002936140
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.09706614423773458,
+      "timestamp": 1675033284054
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.15778259784632562,
+      "timestamp": 1675036408623
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.10511541582461992,
+      "timestamp": 1675037366375
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.23191129467359445,
+      "timestamp": 1675041548084
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.33551019683448224,
+      "timestamp": 1675042281648
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4447511273192887,
+      "timestamp": 1675042576952
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4447511273192887,
+      "timestamp": 1675043826696
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4447511273192887,
+      "timestamp": 1675044654701
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4447511273192887,
+      "timestamp": 1675053166705
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4447511273192887,
+      "timestamp": 1675058889354
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4060043317575579,
+      "timestamp": 1675066751055
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4060043317575579,
+      "timestamp": 1675085537246
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4060043317575579,
+      "timestamp": 1675087051892
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4060043317575579,
+      "timestamp": 1675089943664
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4060043317575579,
+      "timestamp": 1675108539871
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.4060043317575579,
+      "timestamp": 1675114219364
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3521926725647337,
+      "timestamp": 1675115358044
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.30827189888341155,
+      "timestamp": 1675124241558
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.25912560392090694,
+      "timestamp": 1675126097431
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.25912560392090694,
+      "timestamp": 1675136692847
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.21629185764786268,
+      "timestamp": 1675139504185
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675144556276
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675145317913
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675145392507
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675145419899
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675146667529
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675155019272
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675155169566
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675155200392
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675155264905
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.29163088326313125,
+      "timestamp": 1675306701467
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3768236617818114,
+      "timestamp": 1675318178771
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.46367452132644343,
+      "timestamp": 1675318333531
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.42386084931147294,
+      "timestamp": 1675333049474
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.42386084931147294,
+      "timestamp": 1675338528732
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675339813412
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675342800441
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675342848550
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675347919326
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675347969782
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675348091972
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675348189787
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.3868613864004507,
+      "timestamp": 1675348223834
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.5103497356286486,
+      "timestamp": 1675365642357
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.6432295900935694,
+      "timestamp": 1675366332991
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675366968967
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675367484985
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675397759453
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675399372115
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675408165150
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675408174324
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675408230290
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675408271743
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7841335246568266,
+      "timestamp": 1675410621038
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675430903148
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675431021993
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675431263656
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675431395322
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675431447594
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675431533180
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675431590714
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675432080093
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675432316948
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675432958087
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675449456415
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7422220318680687,
+      "timestamp": 1675450930006
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7030751085715715,
+      "timestamp": 1675470087309
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7030751085715715,
+      "timestamp": 1675475151711
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7030751085715715,
+      "timestamp": 1675492947712
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.7030751085715715,
+      "timestamp": 1675494857078
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.6725320530442969,
+      "timestamp": 1675503263401
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.6725320530442969,
+      "timestamp": 1675503978772
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.6725320530442969,
+      "timestamp": 1675525939517
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.6318464400410142,
+      "timestamp": 1675534993096
+    },
+    {
+      "tickerName": "SOLUSDT",
+      "dynamicOffset": 0.5995153698825927,
+      "timestamp": 1675550720104
+    }
+  ]
+}

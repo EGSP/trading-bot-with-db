@@ -1,0 +1,959 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.27093384765549444,
+      "timestamp": 1674513967260
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2340759808045383,
+      "timestamp": 1674519529422
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2340759808045383,
+      "timestamp": 1674540763423
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2340759808045383,
+      "timestamp": 1674542801323
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2340759808045383,
+      "timestamp": 1674549135877
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2340759808045383,
+      "timestamp": 1674550346477
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3114282506498355,
+      "timestamp": 1674551070913
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3913952483967965,
+      "timestamp": 1674551416357
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.47267024998420076,
+      "timestamp": 1674551556509
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.47267024998420076,
+      "timestamp": 1674552914422
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.43571918645679486,
+      "timestamp": 1674558283981
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3999670468652553,
+      "timestamp": 1674566982506
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674594321540
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674688331917
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674698888429
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674709363837
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674710572407
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674713611535
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674713671617
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674713753644
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674713794417
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674719063893
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674720334058
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674737539021
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674738316766
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674769131310
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674790644250
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3681787122207867,
+      "timestamp": 1674796541382
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.33766765196144216,
+      "timestamp": 1674797861369
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.3073935396181595,
+      "timestamp": 1674817187665
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.27778340637256066,
+      "timestamp": 1674822718408
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.27778340637256066,
+      "timestamp": 1674824441138
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.27778340637256066,
+      "timestamp": 1674826092460
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.24316707075894453,
+      "timestamp": 1674835092539
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20821817527592434,
+      "timestamp": 1674835298136
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20821817527592434,
+      "timestamp": 1674853942611
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20821817527592434,
+      "timestamp": 1674870205322
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17332440560741538,
+      "timestamp": 1674871921767
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17332440560741538,
+      "timestamp": 1674879913389
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17332440560741538,
+      "timestamp": 1674880232188
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17332440560741538,
+      "timestamp": 1674880300367
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17332440560741538,
+      "timestamp": 1674880341077
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.14131405882865833,
+      "timestamp": 1674901438293
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10642711534876745,
+      "timestamp": 1674919857377
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10642711534876745,
+      "timestamp": 1674921393074
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11034976644260303,
+      "timestamp": 1674922603418
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11211673139106322,
+      "timestamp": 1674922919292
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11497239363429751,
+      "timestamp": 1674922948899
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.08357624620322253,
+      "timestamp": 1674926008014
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09517424081372608,
+      "timestamp": 1674927616912
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10421787434863851,
+      "timestamp": 1674928965826
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10421787434863851,
+      "timestamp": 1674932755076
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10421787434863851,
+      "timestamp": 1674949923244
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10421787434863851,
+      "timestamp": 1674950438343
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10421787434863851,
+      "timestamp": 1674950474587
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10421787434863851,
+      "timestamp": 1674950540290
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.13410993098722576,
+      "timestamp": 1674959318358
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.13410993098722576,
+      "timestamp": 1674968935280
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10449669289353647,
+      "timestamp": 1674977632456
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.0727885553609259,
+      "timestamp": 1674996596580
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.07305004525401033,
+      "timestamp": 1675002773598
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09175324368210848,
+      "timestamp": 1675036303397
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10060330643265625,
+      "timestamp": 1675038790377
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10247731866685234,
+      "timestamp": 1675038969260
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10341585709808515,
+      "timestamp": 1675039046990
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10341585709808515,
+      "timestamp": 1675039252654
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10527635041985252,
+      "timestamp": 1675039300878
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10621132607503676,
+      "timestamp": 1675039435662
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1071361443518617,
+      "timestamp": 1675039458982
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1071361443518617,
+      "timestamp": 1675089111471
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06252552445680941,
+      "timestamp": 1675092776646
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17113181106256314,
+      "timestamp": 1675108598737
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17113181106256314,
+      "timestamp": 1675118423809
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1360274000456837,
+      "timestamp": 1675125994025
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10132601036853657,
+      "timestamp": 1675134360299
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.16937942587957935,
+      "timestamp": 1675144695928
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.16937942587957935,
+      "timestamp": 1675146068988
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.16937942587957935,
+      "timestamp": 1675147339172
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.13452160062056687,
+      "timestamp": 1675155746548
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.13452160062056687,
+      "timestamp": 1675160105768
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10138504907392543,
+      "timestamp": 1675167144960
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10138504907392543,
+      "timestamp": 1675167749814
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1253124901110718,
+      "timestamp": 1675292410720
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.08338376893706745,
+      "timestamp": 1675325261960
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06941270837137958,
+      "timestamp": 1675335105465
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06807195416104647,
+      "timestamp": 1675348602195
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.0827129635674018,
+      "timestamp": 1675354003749
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.18958515961621697,
+      "timestamp": 1675365753880
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.18958515961621697,
+      "timestamp": 1675367126485
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.15447088687518398,
+      "timestamp": 1675372020612
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1129086351790787,
+      "timestamp": 1675384518714
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12558629856538323,
+      "timestamp": 1675386128306
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12558629856538323,
+      "timestamp": 1675400185554
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12558629856538323,
+      "timestamp": 1675411158414
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12558629856538323,
+      "timestamp": 1675411229994
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12558629856538323,
+      "timestamp": 1675411239822
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12558629856538323,
+      "timestamp": 1675411503253
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12558629856538323,
+      "timestamp": 1675411593256
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10140263518400564,
+      "timestamp": 1675431033242
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1020253241429573,
+      "timestamp": 1675431112821
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10546471981534261,
+      "timestamp": 1675431577789
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10992837999484997,
+      "timestamp": 1675453447317
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10992837999484997,
+      "timestamp": 1675454608456
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11106727763784514,
+      "timestamp": 1675454654617
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11106727763784514,
+      "timestamp": 1675464905566
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11106727763784514,
+      "timestamp": 1675466227011
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11106727763784514,
+      "timestamp": 1675467537115
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.07726820107690105,
+      "timestamp": 1675474268422
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10052071541770041,
+      "timestamp": 1675476994991
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10518361795375773,
+      "timestamp": 1675478634100
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11273410509727944,
+      "timestamp": 1675478876366
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.11273410509727944,
+      "timestamp": 1675498916475
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.08210344714468142,
+      "timestamp": 1675504973066
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09278631856636393,
+      "timestamp": 1675506606461
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10152591025834759,
+      "timestamp": 1675508774186
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10152591025834759,
+      "timestamp": 1675510823863
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.07061119849257255,
+      "timestamp": 1675528100215
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10083728254122189,
+      "timestamp": 1675536201303
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.07273848353827583,
+      "timestamp": 1675548024456
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.05559834826135586,
+      "timestamp": 1675550829457
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09317753486618675,
+      "timestamp": 1675553233868
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.17355820509963943,
+      "timestamp": 1675562233044
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.13878611348273615,
+      "timestamp": 1675564551013
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.13878611348273615,
+      "timestamp": 1675565761059
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.13878611348273615,
+      "timestamp": 1675566471933
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20212402122051792,
+      "timestamp": 1675575717082
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.27367391825480464,
+      "timestamp": 1675576963311
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.27367391825480464,
+      "timestamp": 1675577549516
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.24166812097831675,
+      "timestamp": 1675582413164
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20348928167515626,
+      "timestamp": 1675594427829
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20348928167515626,
+      "timestamp": 1675597181397
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20348928167515626,
+      "timestamp": 1675597217277
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20348928167515626,
+      "timestamp": 1675597271751
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20348928167515626,
+      "timestamp": 1675597336201
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20348928167515626,
+      "timestamp": 1675597386157
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.20348928167515626,
+      "timestamp": 1675627365437
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.16872364476258747,
+      "timestamp": 1675632848326
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1348744414386563,
+      "timestamp": 1675635472891
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1348744414386563,
+      "timestamp": 1675636174347
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1348744414386563,
+      "timestamp": 1675648327710
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1348744414386563,
+      "timestamp": 1675649533716
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1348744414386563,
+      "timestamp": 1675650879885
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.1348744414386563,
+      "timestamp": 1675666217510
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10044468429140746,
+      "timestamp": 1675666936809
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10228686397075888,
+      "timestamp": 1675669495151
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10677466863034105,
+      "timestamp": 1675669556423
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.10677466863034105,
+      "timestamp": 1675669564043
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.07348038414917571,
+      "timestamp": 1675676031183
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.05721112043644912,
+      "timestamp": 1675680733481
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06123151080905482,
+      "timestamp": 1675682258450
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06310523522852382,
+      "timestamp": 1675683316082
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09931338891613388,
+      "timestamp": 1675692770091
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06965239043048185,
+      "timestamp": 1675693291326
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06007782583020248,
+      "timestamp": 1675718217771
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06762107093814342,
+      "timestamp": 1675735730045
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09444775571959375,
+      "timestamp": 1675738453064
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09445352978037533,
+      "timestamp": 1675738515588
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09445352978037533,
+      "timestamp": 1675738565544
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09536909674461445,
+      "timestamp": 1675738628877
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06469378429681591,
+      "timestamp": 1675772212297
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06164631807635169,
+      "timestamp": 1675773591722
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09674769539687869,
+      "timestamp": 1675776378842
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09951460003956007,
+      "timestamp": 1675776425806
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09952671546621099,
+      "timestamp": 1675776554750
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.0676665361389173,
+      "timestamp": 1675787994708
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.15828637761764583,
+      "timestamp": 1675792026145
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.15828637761764583,
+      "timestamp": 1675800019977
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675814867043
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675821852916
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675823295712
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675825000655
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675825908531
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675856625413
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675857022717
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.12695352632817786,
+      "timestamp": 1675857068776
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.09514450165346267,
+      "timestamp": 1675861748335
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.06458150708520134,
+      "timestamp": 1675866810539
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.16750115622960032,
+      "timestamp": 1675868527093
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2409001037736157,
+      "timestamp": 1675868835147
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2409001037736157,
+      "timestamp": 1675868955565
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2409001037736157,
+      "timestamp": 1675878190641
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.31258359359547666,
+      "timestamp": 1675882437382
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.31258359359547666,
+      "timestamp": 1675882960320
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.31258359359547666,
+      "timestamp": 1675893535611
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.31258359359547666,
+      "timestamp": 1675894738920
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2807140137223415,
+      "timestamp": 1675898598789
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2807140137223415,
+      "timestamp": 1675910391248
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2807140137223415,
+      "timestamp": 1675910404685
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2807140137223415,
+      "timestamp": 1675922898941
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2807140137223415,
+      "timestamp": 1675926645474
+    },
+    {
+      "tickerName": "BNBUSDT",
+      "dynamicOffset": 0.2807140137223415,
+      "timestamp": 1676520841264
+    }
+  ]
+}

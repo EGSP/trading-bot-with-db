@@ -1,0 +1,954 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2978795549058553,
+      "timestamp": 1674514941161
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2533045371771555,
+      "timestamp": 1674520006523
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2533045371771555,
+      "timestamp": 1674538073306
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2533045371771555,
+      "timestamp": 1674552272600
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2533045371771555,
+      "timestamp": 1674553986807
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.21125280376558667,
+      "timestamp": 1674557670486
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1710665749001126,
+      "timestamp": 1674563813815
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1710665749001126,
+      "timestamp": 1674585244908
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1710665749001126,
+      "timestamp": 1674585306347
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1710665749001126,
+      "timestamp": 1674592595202
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1710665749001126,
+      "timestamp": 1674594019559
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.12870026128605944,
+      "timestamp": 1674680862830
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.14244288571328373,
+      "timestamp": 1674686984759
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.35270961223940434,
+      "timestamp": 1674687395167
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.35270961223940434,
+      "timestamp": 1674688604775
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.35270961223940434,
+      "timestamp": 1674702142001
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4268170680503287,
+      "timestamp": 1674714192653
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5029541147343605,
+      "timestamp": 1674714429166
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.45456701796016774,
+      "timestamp": 1674715690432
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.41835699985515823,
+      "timestamp": 1674726152358
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3800891247292768,
+      "timestamp": 1674728293935
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3800891247292768,
+      "timestamp": 1674730039877
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3163231832439042,
+      "timestamp": 1674762013365
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3163231832439042,
+      "timestamp": 1674769583160
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3163231832439042,
+      "timestamp": 1674780297243
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4095718005131843,
+      "timestamp": 1674793651093
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4095718005131843,
+      "timestamp": 1674795458169
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4095718005131843,
+      "timestamp": 1674805169565
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4095718005131843,
+      "timestamp": 1674806433152
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5034728361863697,
+      "timestamp": 1674821778525
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5034728361863697,
+      "timestamp": 1674823020938
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5034728361863697,
+      "timestamp": 1674824636423
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5034728361863697,
+      "timestamp": 1674824663552
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5034728361863697,
+      "timestamp": 1674825018513
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5034728361863697,
+      "timestamp": 1674825077535
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4418542638279416,
+      "timestamp": 1674853942184
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4418542638279416,
+      "timestamp": 1674868525550
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3947066919278939,
+      "timestamp": 1674870431210
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3947066919278939,
+      "timestamp": 1674879727718
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3947066919278939,
+      "timestamp": 1674881147907
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3526825280336535,
+      "timestamp": 1674896232281
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3526825280336535,
+      "timestamp": 1674920213428
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4564485178359619,
+      "timestamp": 1674920635251
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4564485178359619,
+      "timestamp": 1674927616540
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4564485178359619,
+      "timestamp": 1674928828833
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4564485178359619,
+      "timestamp": 1674952454299
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4564485178359619,
+      "timestamp": 1674959365235
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4564485178359619,
+      "timestamp": 1674966617714
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4564485178359619,
+      "timestamp": 1674968548968
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4161011798831493,
+      "timestamp": 1674976044035
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.37449590988228326,
+      "timestamp": 1674990313450
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3284709869523205,
+      "timestamp": 1674991156574
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2911417259020112,
+      "timestamp": 1675033536649
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.37084664810491835,
+      "timestamp": 1675034228320
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.32768300712485077,
+      "timestamp": 1675034844597
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2949863972470345,
+      "timestamp": 1675058617283
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2596125997404559,
+      "timestamp": 1675066939764
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2596125997404559,
+      "timestamp": 1675071571660
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20854727133756784,
+      "timestamp": 1675092776234
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.23462299305331788,
+      "timestamp": 1675108274135
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.23462299305331788,
+      "timestamp": 1675122869923
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3064693523772214,
+      "timestamp": 1675144585378
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3839887322221864,
+      "timestamp": 1675145069596
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3839887322221864,
+      "timestamp": 1675146533618
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.34340207047511545,
+      "timestamp": 1675155677536
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.34340207047511545,
+      "timestamp": 1675166932668
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.34340207047511545,
+      "timestamp": 1675168000279
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.34340207047511545,
+      "timestamp": 1675306650254
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.34340207047511545,
+      "timestamp": 1675320474193
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.34340207047511545,
+      "timestamp": 1675325106960
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.30526974318616046,
+      "timestamp": 1675332751371
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.30526974318616046,
+      "timestamp": 1675345926810
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2529916235899088,
+      "timestamp": 1675354718491
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3518210618012579,
+      "timestamp": 1675365756392
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4659763129428087,
+      "timestamp": 1675366968615
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4659763129428087,
+      "timestamp": 1675367820041
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4223505252549767,
+      "timestamp": 1675371993758
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4223505252549767,
+      "timestamp": 1675400147293
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.38535086161555554,
+      "timestamp": 1675409275196
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.38535086161555554,
+      "timestamp": 1675418183638
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3390682007833086,
+      "timestamp": 1675431035320
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2927855399510617,
+      "timestamp": 1675431045749
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.38535865166997707,
+      "timestamp": 1675431065557
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3390720958105194,
+      "timestamp": 1675431116974
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.29193404867247186,
+      "timestamp": 1675431136663
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.39306332559814194,
+      "timestamp": 1675431400293
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3399054974751198,
+      "timestamp": 1675431593195
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3399054974751198,
+      "timestamp": 1675433304719
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3399054974751198,
+      "timestamp": 1675450223138
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3399054974751198,
+      "timestamp": 1675453579557
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.44039559261123434,
+      "timestamp": 1675454579292
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3857643534754017,
+      "timestamp": 1675455568200
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3479385167843406,
+      "timestamp": 1675461195375
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3479385167843406,
+      "timestamp": 1675477037337
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3479385167843406,
+      "timestamp": 1675477143768
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3479385167843406,
+      "timestamp": 1675477217701
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3479385167843406,
+      "timestamp": 1675477236554
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3479385167843406,
+      "timestamp": 1675477294088
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3123426912038863,
+      "timestamp": 1675481344879
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.3123426912038863,
+      "timestamp": 1675494929705
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2789537095678263,
+      "timestamp": 1675503211533
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24476567537979224,
+      "timestamp": 1675503984091
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24476567537979224,
+      "timestamp": 1675507102876
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675514368565
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675542295535
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675548218196
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675549422235
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675552161145
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675552212967
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675552297054
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675552411591
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675552471448
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675552953249
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675553037762
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675564372551
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.20954431321408645,
+      "timestamp": 1675572806240
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1729637963154786,
+      "timestamp": 1675573670274
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.14005981974953025,
+      "timestamp": 1675592860095
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.10638168648034588,
+      "timestamp": 1675595082115
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.07191965482336354,
+      "timestamp": 1675595635608
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1518367346938771,
+      "timestamp": 1675608892498
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1518367346938771,
+      "timestamp": 1675612545384
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1518367346938771,
+      "timestamp": 1675613568373
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1518367346938771,
+      "timestamp": 1675636372008
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675637022047
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675637274390
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675637299121
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675648331490
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675649534926
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675651816773
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675652270252
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675652285484
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.24124070820381205,
+      "timestamp": 1675652345527
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2035032768649704,
+      "timestamp": 1675666768730
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2035032768649704,
+      "timestamp": 1675669368443
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2035032768649704,
+      "timestamp": 1675670572615
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2035032768649704,
+      "timestamp": 1675670584779
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16825063291667444,
+      "timestamp": 1675675914165
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16825063291667444,
+      "timestamp": 1675681157613
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16825063291667444,
+      "timestamp": 1675682851313
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16825063291667444,
+      "timestamp": 1675692487561
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16825063291667444,
+      "timestamp": 1675715689856
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16825063291667444,
+      "timestamp": 1675716894040
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1270983695421879,
+      "timestamp": 1675718578694
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2400465116186694,
+      "timestamp": 1675731899414
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2400465116186694,
+      "timestamp": 1675733180942
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2400465116186694,
+      "timestamp": 1675734186890
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2400465116186694,
+      "timestamp": 1675756640747
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2400465116186694,
+      "timestamp": 1675758396892
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2002301544090637,
+      "timestamp": 1675777351564
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2002301544090637,
+      "timestamp": 1675788353288
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2002301544090637,
+      "timestamp": 1675799618503
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16143824529296405,
+      "timestamp": 1675826301999
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16143824529296405,
+      "timestamp": 1675836234665
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.16143824529296405,
+      "timestamp": 1675837757882
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.11818394935493517,
+      "timestamp": 1675845840591
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1991871427500574,
+      "timestamp": 1675854064765
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1991871427500574,
+      "timestamp": 1675855283517
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.1991871427500574,
+      "timestamp": 1675855515556
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.14504110314609608,
+      "timestamp": 1675861810650
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.18798592039608544,
+      "timestamp": 1675870522278
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.2198658973959163,
+      "timestamp": 1675870594930
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.36858758086404186,
+      "timestamp": 1675875416822
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5187906615598811,
+      "timestamp": 1675875599677
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.6720004056996085,
+      "timestamp": 1675875705417
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.6720004056996085,
+      "timestamp": 1675876879986
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.6720004056996085,
+      "timestamp": 1675882289537
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.6036508911365006,
+      "timestamp": 1675882994537
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.545031531321614,
+      "timestamp": 1675890392385
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.49698679458314277,
+      "timestamp": 1675922663435
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5956594129315507,
+      "timestamp": 1675925960815
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5956594129315507,
+      "timestamp": 1676086199405
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5956594129315507,
+      "timestamp": 1676086341673
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5956594129315507,
+      "timestamp": 1676093791833
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5956594129315507,
+      "timestamp": 1676099238944
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5956594129315507,
+      "timestamp": 1676099879733
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676139445742
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676146938114
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676148493060
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676150002608
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676150098112
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676150105046
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676161997125
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676169018207
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.557855270562758,
+      "timestamp": 1676174819009
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.5235444786218046,
+      "timestamp": 1676192686734
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4734936457446641,
+      "timestamp": 1676207157528
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4734936457446641,
+      "timestamp": 1676226494899
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4734936457446641,
+      "timestamp": 1676227696516
+    },
+    {
+      "tickerName": "MATICUSDT",
+      "dynamicOffset": 0.4734936457446641,
+      "timestamp": 1676520519088
+    }
+  ]
+}

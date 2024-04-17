@@ -1,0 +1,23 @@
+{
+  "trades": [],
+  "activeTrade": {
+    "id": 2,
+    "ticker": "LTCUSDT",
+    "side": "",
+    "trade_levels": [],
+    "trade_levels_time": [],
+    "stop_loss": null,
+    "exit_price": "",
+    "is_active": true,
+    "quantity": 0,
+    "result": "",
+    "extra_params": {
+      "average_order": "",
+      "price_change": "",
+      "realized_profit": "",
+      "leverage": 20,
+      "text_result": "",
+      "brief_result": ""
+    }
+  }
+}

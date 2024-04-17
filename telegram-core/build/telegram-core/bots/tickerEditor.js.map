@@ -1,0 +1,1 @@
+{"version":3,"file":"tickerEditor.js","sourceRoot":"","sources":["../../../bots/tickerEditor.ts"],"names":[],"mappings":";;AAAA,qDAAsD;AACtD,oCAAqC;AAI9B,KAAK,UAAU,kBAAkB;IACpC,MAAM,GAAG,GAAG,IAAI,WAAW,CAAC,MAAM,CAAC,eAAe,EAAE,EAAE,OAAO,EAAE,IAAI,EAAE,CAAC,CAAC;IAEvE,GAAG,CAAC,EAAE,CAAC,eAAe,EAAE,OAAO,CAAC,GAAG,CAAC,CAAC;AACzC,CAAC;AAJD,gDAIC"}

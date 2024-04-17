@@ -1,0 +1,944 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.48063184597181896,
+      "timestamp": 1674433779592
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.56441333479152,
+      "timestamp": 1674433988908
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.56441333479152,
+      "timestamp": 1674434466638
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.5302991660400989,
+      "timestamp": 1674444567880
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.5302991660400989,
+      "timestamp": 1674446083063
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.492642978443819,
+      "timestamp": 1674447148421
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.460792221988353,
+      "timestamp": 1674452418731
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.42663143856772023,
+      "timestamp": 1674454095564
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.42663143856772023,
+      "timestamp": 1674460201121
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3866337241514002,
+      "timestamp": 1674461252787
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.4699905250525526,
+      "timestamp": 1674463576777
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.5555857497400196,
+      "timestamp": 1674463649710
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.5555857497400196,
+      "timestamp": 1674510891845
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.5222524164066851,
+      "timestamp": 1674514575167
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.48553066711608267,
+      "timestamp": 1674516317463
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.4454013615760092,
+      "timestamp": 1674517560488
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.4122924332016563,
+      "timestamp": 1674542322567
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.4122924332016563,
+      "timestamp": 1674544109343
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.4122924332016563,
+      "timestamp": 1674545431742
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.37261863994620126,
+      "timestamp": 1674566720941
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.37261863994620126,
+      "timestamp": 1674586025991
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.37261863994620126,
+      "timestamp": 1674586986135
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.37261863994620126,
+      "timestamp": 1674592705640
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.37261863994620126,
+      "timestamp": 1674593588285
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.47959434754593466,
+      "timestamp": 1674686909246
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.47959434754593466,
+      "timestamp": 1674689027118
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.47959434754593466,
+      "timestamp": 1674704095834
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.47959434754593466,
+      "timestamp": 1674710726216
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.47959434754593466,
+      "timestamp": 1674711937664
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.47959434754593466,
+      "timestamp": 1674713428879
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.44297040880779603,
+      "timestamp": 1674714003306
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.44297040880779603,
+      "timestamp": 1674737842067
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.44297040880779603,
+      "timestamp": 1674739014175
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.44297040880779603,
+      "timestamp": 1674772088442
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.4076769608656331,
+      "timestamp": 1674773138596
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.4076769608656331,
+      "timestamp": 1674791685932
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3766620852123109,
+      "timestamp": 1674804203668
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3766620852123109,
+      "timestamp": 1674811217500
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674812414314
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674818033244
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674823232166
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674823296927
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674823399838
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674823499373
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674831197143
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674831259204
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3399774583637488,
+      "timestamp": 1674854764421
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3049155344820559,
+      "timestamp": 1674870130906
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3049155344820559,
+      "timestamp": 1674872231513
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.27563955204764634,
+      "timestamp": 1674877045114
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.27563955204764634,
+      "timestamp": 1674877903743
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.27563955204764634,
+      "timestamp": 1674880365023
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.24303513358679904,
+      "timestamp": 1674902881720
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.24303513358679904,
+      "timestamp": 1674920438093
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.24303513358679904,
+      "timestamp": 1674921745760
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.20770951111514474,
+      "timestamp": 1674926687220
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.20770951111514474,
+      "timestamp": 1674977951682
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.20770951111514474,
+      "timestamp": 1674988902299
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.20770951111514474,
+      "timestamp": 1674995512079
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.20770951111514474,
+      "timestamp": 1674995530392
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.16688677599189142,
+      "timestamp": 1674998750233
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.16688677599189142,
+      "timestamp": 1675000000061
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.23950465036296759,
+      "timestamp": 1675032331225
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31636780279090637,
+      "timestamp": 1675032724577
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31636780279090637,
+      "timestamp": 1675033388165
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31636780279090637,
+      "timestamp": 1675033633092
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.27150369929046225,
+      "timestamp": 1675041394807
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.27150369929046225,
+      "timestamp": 1675043202242
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.23492534322629396,
+      "timestamp": 1675053776337
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.18981740637740688,
+      "timestamp": 1675079768804
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.29042210483087694,
+      "timestamp": 1675081184886
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.29042210483087694,
+      "timestamp": 1675081860172
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.24552152753774012,
+      "timestamp": 1675092771427
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3952338341127922,
+      "timestamp": 1675107845027
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3952338341127922,
+      "timestamp": 1675109058165
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3952338341127922,
+      "timestamp": 1675114245005
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3952338341127922,
+      "timestamp": 1675145991373
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3559202284176331,
+      "timestamp": 1675155676755
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3559202284176331,
+      "timestamp": 1675158839468
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3559202284176331,
+      "timestamp": 1675159613926
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3559202284176331,
+      "timestamp": 1675159636443
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3559202284176331,
+      "timestamp": 1675166261079
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31461323270720565,
+      "timestamp": 1675167091771
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31461323270720565,
+      "timestamp": 1675304869078
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31461323270720565,
+      "timestamp": 1675306073402
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31461323270720565,
+      "timestamp": 1675316464784
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.31461323270720565,
+      "timestamp": 1675317731962
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2736029801440638,
+      "timestamp": 1675319309200
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.23981919636027968,
+      "timestamp": 1675332557967
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2079847355564588,
+      "timestamp": 1675338667179
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.1751701380324695,
+      "timestamp": 1675339399010
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.13926349530356472,
+      "timestamp": 1675347964058
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.10236128615780055,
+      "timestamp": 1675348041510
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.0718335473765187,
+      "timestamp": 1675348755638
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.08349070668919341,
+      "timestamp": 1675365192663
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.21272860328294457,
+      "timestamp": 1675365649259
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.30023854759479773,
+      "timestamp": 1675365772918
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.39601825426944687,
+      "timestamp": 1675366480508
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.39601825426944687,
+      "timestamp": 1675368486949
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.356316021018826,
+      "timestamp": 1675371831279
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.356316021018826,
+      "timestamp": 1675386224931
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.356316021018826,
+      "timestamp": 1675386642534
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3190270313488849,
+      "timestamp": 1675397003973
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3190270313488849,
+      "timestamp": 1675399486937
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3190270313488849,
+      "timestamp": 1675400692999
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3190270313488849,
+      "timestamp": 1675401845212
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3190270313488849,
+      "timestamp": 1675406730433
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.3190270313488849,
+      "timestamp": 1675406901285
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.28652652352844943,
+      "timestamp": 1675427121667
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.25195611173383947,
+      "timestamp": 1675430841125
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.21738218454246228,
+      "timestamp": 1675430904737
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.21738218454246228,
+      "timestamp": 1675449203937
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.29197519900745994,
+      "timestamp": 1675454657926
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.29197519900745994,
+      "timestamp": 1675455533335
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.25772517382361754,
+      "timestamp": 1675461623904
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.25772517382361754,
+      "timestamp": 1675477406583
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.25772517382361754,
+      "timestamp": 1675492546589
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2255255360695415,
+      "timestamp": 1675497865068
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.1942455804668976,
+      "timestamp": 1675506524735
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.1942455804668976,
+      "timestamp": 1675509291510
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.16201350955634228,
+      "timestamp": 1675509899477
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.1307776790359128,
+      "timestamp": 1675525807112
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.1307776790359128,
+      "timestamp": 1675530372032
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.1307776790359128,
+      "timestamp": 1675531460110
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.09650003007936442,
+      "timestamp": 1675535899950
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.06526105189626347,
+      "timestamp": 1675541053950
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.058294386652596855,
+      "timestamp": 1675550503928
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.10026839519927457,
+      "timestamp": 1675564761028
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.07180765481470938,
+      "timestamp": 1675565695058
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.0853398354160277,
+      "timestamp": 1675575458249
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.0915378356387298,
+      "timestamp": 1675575485707
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.0915378356387298,
+      "timestamp": 1675578939994
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.062055804428440955,
+      "timestamp": 1675585827511
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.05897005744497103,
+      "timestamp": 1675585948714
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.09152852639072424,
+      "timestamp": 1675592005154
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.06764403406918829,
+      "timestamp": 1675614979653
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.10948334289140117,
+      "timestamp": 1675636328149
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.19234577935838787,
+      "timestamp": 1675637012359
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.19234577935838787,
+      "timestamp": 1675637595478
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.19234577935838787,
+      "timestamp": 1675649864093
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.19234577935838787,
+      "timestamp": 1675651300090
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675652453960
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675652807128
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675658070193
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675658113588
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675658163980
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675661115463
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675666191228
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2696424838029493,
+      "timestamp": 1675666346441
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675676138763
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675678577500
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675684992663
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675692488693
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675709836930
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675721224232
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675722431263
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.2352334331799371,
+      "timestamp": 1675723418812
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.1976985612550064,
+      "timestamp": 1675754283918
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.16214932556357434,
+      "timestamp": 1675758198031
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.12675467521215517,
+      "timestamp": 1675768121771
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.0904570345587977,
+      "timestamp": 1675788052059
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.07067947063685975,
+      "timestamp": 1675790567739
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11748757342973355,
+      "timestamp": 1675791740784
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11748757342973355,
+      "timestamp": 1675832387884
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11748757342973355,
+      "timestamp": 1675833591577
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11748757342973355,
+      "timestamp": 1675844201875
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11748757342973355,
+      "timestamp": 1675844226598
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11748757342973355,
+      "timestamp": 1675844288500
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11748757342973355,
+      "timestamp": 1675856287174
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.08117211973193797,
+      "timestamp": 1675858670433
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.14846235418876202,
+      "timestamp": 1675878499871
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.14846235418876202,
+      "timestamp": 1675880192303
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.10883827494060347,
+      "timestamp": 1675881982866
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17985019479857847,
+      "timestamp": 1675886774401
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17985019479857847,
+      "timestamp": 1675886915527
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17985019479857847,
+      "timestamp": 1675887030857
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17985019479857847,
+      "timestamp": 1675893941297
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17985019479857847,
+      "timestamp": 1675895144335
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17985019479857847,
+      "timestamp": 1675896496191
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.14438021760070724,
+      "timestamp": 1675904151883
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.21749150923352598,
+      "timestamp": 1675908817607
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.21749150923352598,
+      "timestamp": 1675909938551
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17942762363093304,
+      "timestamp": 1675926321368
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17942762363093304,
+      "timestamp": 1676269262478
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17942762363093304,
+      "timestamp": 1676270944148
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.17942762363093304,
+      "timestamp": 1676520309113
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.14802120494411458,
+      "timestamp": 1676527872074
+    },
+    {
+      "tickerName": "LTCUSDT",
+      "dynamicOffset": 0.11660862027738175,
+      "timestamp": 1676528189310
+    }
+  ]
+}

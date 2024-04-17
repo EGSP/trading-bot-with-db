@@ -1,0 +1,944 @@
+{
+  "stoplosses": [
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5980861244019144,
+      "timestamp": 1674438561160
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.535539586799532,
+      "timestamp": 1674439282995
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6604466499965601,
+      "timestamp": 1674439918728
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7793880713465453,
+      "timestamp": 1674439933120
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7170827753963898,
+      "timestamp": 1674440575806
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6521860202341485,
+      "timestamp": 1674443750847
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6521860202341485,
+      "timestamp": 1674450696460
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7482532673070996,
+      "timestamp": 1674456275170
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8442628682671958,
+      "timestamp": 1674456493227
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8442628682671958,
+      "timestamp": 1674457101886
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8442628682671958,
+      "timestamp": 1674463773659
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8442628682671958,
+      "timestamp": 1674471085387
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7976862497297013,
+      "timestamp": 1674515059502
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7477953859941228,
+      "timestamp": 1674516325618
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7477953859941228,
+      "timestamp": 1674519496696
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7477953859941228,
+      "timestamp": 1674537313534
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7043979898378914,
+      "timestamp": 1674542383168
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6581801497516176,
+      "timestamp": 1674551148780
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6581801497516176,
+      "timestamp": 1674552835355
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6581801497516176,
+      "timestamp": 1674553317212
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6581801497516176,
+      "timestamp": 1674564980157
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674566972153
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674587233082
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674588988534
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674688585654
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674701648954
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674714563959
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674715819589
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6091304869680493,
+      "timestamp": 1674737594299
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5576835416304287,
+      "timestamp": 1674738359173
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5576835416304287,
+      "timestamp": 1674742740643
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5084305454064912,
+      "timestamp": 1674764772093
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5084305454064912,
+      "timestamp": 1674782238889
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674783433603
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674783444125
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674783500160
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674800079291
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674801810021
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674806554340
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674806604738
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674806682493
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674806732917
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674806786667
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674806861764
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674806896786
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674818176378
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674832996045
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674873745931
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674877369219
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674877409700
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674877572221
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674877760285
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674877829448
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674877921027
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674877947857
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6456181985177106,
+      "timestamp": 1674892139086
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5996270901319981,
+      "timestamp": 1674902982829
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.545872149420536,
+      "timestamp": 1674917198815
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.49211720870907383,
+      "timestamp": 1674919673018
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.49211720870907383,
+      "timestamp": 1674950020333
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.44980638690272606,
+      "timestamp": 1674950739409
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4042927328064964,
+      "timestamp": 1674951159613
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4042927328064964,
+      "timestamp": 1674953628974
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4042927328064964,
+      "timestamp": 1674954324295
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3431503353809127,
+      "timestamp": 1674958715105
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3431503353809127,
+      "timestamp": 1674962054291
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.301140317607444,
+      "timestamp": 1674978664814
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2623430334173372,
+      "timestamp": 1674981201265
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.21749998408998364,
+      "timestamp": 1675000969514
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.1789519596762348,
+      "timestamp": 1675033082907
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.1789519596762348,
+      "timestamp": 1675041725581
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.1789519596762348,
+      "timestamp": 1675041909801
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.1789519596762348,
+      "timestamp": 1675042692517
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.1789519596762348,
+      "timestamp": 1675049695978
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.29647299369568836,
+      "timestamp": 1675071621011
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2523528511536897,
+      "timestamp": 1675088985231
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2990484821024007,
+      "timestamp": 1675110887314
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.23059795316649453,
+      "timestamp": 1675118897418
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3795259285163465,
+      "timestamp": 1675144852283
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5395465763418731,
+      "timestamp": 1675145422735
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5395465763418731,
+      "timestamp": 1675146630241
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6839509084718371,
+      "timestamp": 1675159911585
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6839509084718371,
+      "timestamp": 1675161967836
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.601135173482189,
+      "timestamp": 1675298910132
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.535933785323603,
+      "timestamp": 1675309017130
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47127636536323236,
+      "timestamp": 1675319141697
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47127636536323236,
+      "timestamp": 1675330557077
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675334998703
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675336078516
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675350098397
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675350129507
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675350768321
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675350788342
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675357303618
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675357396091
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675357462221
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675358444398
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4211091412829648,
+      "timestamp": 1675358474835
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3449263024698145,
+      "timestamp": 1675365046782
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2913988428830476,
+      "timestamp": 1675390922757
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2336757001786112,
+      "timestamp": 1675392056606
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3614168115262772,
+      "timestamp": 1675393377555
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3614168115262772,
+      "timestamp": 1675394657535
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3614168115262772,
+      "timestamp": 1675409141775
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3614168115262772,
+      "timestamp": 1675410804098
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.29267397223870223,
+      "timestamp": 1675431370352
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.21782989739462638,
+      "timestamp": 1675431731596
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.39193645972306024,
+      "timestamp": 1675432254724
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5575679297023565,
+      "timestamp": 1675432284605
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7312652001738197,
+      "timestamp": 1675432437643
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6270666099194522,
+      "timestamp": 1675433439557
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7512902124039216,
+      "timestamp": 1675441157540
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8796413147742753,
+      "timestamp": 1675441331049
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8796413147742753,
+      "timestamp": 1675443150356
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8796413147742753,
+      "timestamp": 1675447618197
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8796413147742753,
+      "timestamp": 1675447749943
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8796413147742753,
+      "timestamp": 1675448410777
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8219093560113896,
+      "timestamp": 1675468911638
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7583000403245104,
+      "timestamp": 1675470116539
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6829512978339292,
+      "timestamp": 1675471691787
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6829512978339292,
+      "timestamp": 1675472459775
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6829512978339292,
+      "timestamp": 1675472469435
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6317375315735576,
+      "timestamp": 1675476413498
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.748234307109233,
+      "timestamp": 1675494987831
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8605120906626175,
+      "timestamp": 1675495096917
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8605120906626175,
+      "timestamp": 1675496251836
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8605120906626175,
+      "timestamp": 1675526114163
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7990563579950545,
+      "timestamp": 1675527368013
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.9381599128636773,
+      "timestamp": 1675530156749
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.9381599128636773,
+      "timestamp": 1675531479173
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.9381599128636773,
+      "timestamp": 1675555643224
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8612444212947991,
+      "timestamp": 1675557216975
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.8116166297315247,
+      "timestamp": 1675567944236
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7735747837008925,
+      "timestamp": 1675574183674
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7735747837008925,
+      "timestamp": 1675576459590
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7735747837008925,
+      "timestamp": 1675646954557
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7735747837008925,
+      "timestamp": 1675648473316
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7735747837008925,
+      "timestamp": 1675649887151
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7735747837008925,
+      "timestamp": 1675665114160
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675676124281
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675679991065
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675680042747
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675680238602
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675680268102
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675680318697
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675680386293
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675681704224
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675681945225
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675691691816
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675692769669
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.7265475751016317,
+      "timestamp": 1675700212682
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6607436707366389,
+      "timestamp": 1675701105844
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6607436707366389,
+      "timestamp": 1675738804451
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.6212041894016012,
+      "timestamp": 1675752446648
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5696457174072272,
+      "timestamp": 1675758856113
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5278629876022138,
+      "timestamp": 1675772125180
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47896323210099156,
+      "timestamp": 1675774049576
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4326132900384181,
+      "timestamp": 1675786817293
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.5298692817021898,
+      "timestamp": 1675787664611
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47669623812341355,
+      "timestamp": 1675788172245
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47669623812341355,
+      "timestamp": 1675791970087
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47669623812341355,
+      "timestamp": 1675826315672
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47669623812341355,
+      "timestamp": 1675836259283
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.47669623812341355,
+      "timestamp": 1675837236069
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.4245336647697947,
+      "timestamp": 1675848876168
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.37879697741272206,
+      "timestamp": 1675856672683
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.32684892546467004,
+      "timestamp": 1675858886003
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.32684892546467004,
+      "timestamp": 1675896457147
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2741543146862263,
+      "timestamp": 1675897821008
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2741543146862263,
+      "timestamp": 1675905518628
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3709831696850139,
+      "timestamp": 1675908796259
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3709831696850139,
+      "timestamp": 1675909130651
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3709831696850139,
+      "timestamp": 1675909152988
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3709831696850139,
+      "timestamp": 1675921704248
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3709831696850139,
+      "timestamp": 1675921753707
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3709831696850139,
+      "timestamp": 1676101930389
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3191201971177964,
+      "timestamp": 1676139430498
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.26783122424696326,
+      "timestamp": 1676162936229
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.26783122424696326,
+      "timestamp": 1676181018239
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.22753572391116708,
+      "timestamp": 1676181870492
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.22753572391116708,
+      "timestamp": 1676183913610
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3133036145571066,
+      "timestamp": 1676184868974
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3133036145571066,
+      "timestamp": 1676186037378
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.2756084072334657,
+      "timestamp": 1676189837925
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.23068833853218323,
+      "timestamp": 1676205469269
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.23068833853218323,
+      "timestamp": 1676222138476
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.23068833853218323,
+      "timestamp": 1676633033271
+    },
+    {
+      "tickerName": "MASKUSDT",
+      "dynamicOffset": 0.3197223198350453,
+      "timestamp": 1677905513617
+    }
+  ]
+}

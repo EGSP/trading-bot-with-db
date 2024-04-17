@@ -1,0 +1,34 @@
+{
+  "cascadeLossProtectionRules": [
+    {
+      "timestamp": 1674599040500,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674599175795,
+      "restricted": true,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674648414204,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674656769669,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674657343456,
+      "restricted": false,
+      "side": "LONG"
+    },
+    {
+      "timestamp": 1674664512382,
+      "restricted": false,
+      "side": "SHORT"
+    }
+  ]
+}
